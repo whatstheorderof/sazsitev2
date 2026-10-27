@@ -1,2 +1,12 @@
 originals/
 .DS_Store
+# hidden PR pages (kept locally as an archive)
+press.html
+airborn-gav.html
+agency.html
+assets/img/press/
+assets/img/airborn-gav/
+assets/img/agency/
+assets/img/thumbs/press/
+assets/img/thumbs/airborn-gav/
+assets/img/thumbs/agency/

@@ -283,3 +283,8 @@ main > .agency { max-width: none; }
 .h-xxl, .h-xl { overflow-wrap: break-word; }
 .players-stream { grid-template-columns: repeat(auto-fit, minmax(min(100%, 380px), 1fr)); align-items: start; }
 .latest-copy > .player { margin-top: 1.6rem; }
+.story { display: grid; gap: clamp(2.5rem, 6vw, 4.5rem); }
+.story-row { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 3fr); gap: 1rem 3rem; align-items: start; padding-top: 1.6rem; border-top: 1px solid var(--night-3); }
+.story-when { font-family: var(--display); font-weight: 700; font-size: clamp(1.8rem, 3vw, 2.6rem); line-height: 1; text-transform: lowercase; color: var(--mist); margin: 0; position: sticky; top: 90px; }
+.story-contact { max-width: 30rem; }
+@media (max-width: 760px) { .story-row { grid-template-columns: 1fr; } .story-when { position: static; } }
