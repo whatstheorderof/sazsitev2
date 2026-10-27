@@ -1,0 +1,12 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/about-us", "destination": "/about", "permanent": true },
+    { "source": "/pr", "destination": "/press", "permanent": true },
+    { "source": "/airborngav", "destination": "/airborn-gav", "permanent": true },
+    { "source": "/saz-the-agencymenu", "destination": "/agency", "permanent": true },
+    { "source": "/afterdark", "destination": "/after-dark", "permanent": true },
+    { "source": "/saz-transitions", "destination": "/transitions", "permanent": true },
+    { "source": "/submission", "destination": "/contact", "permanent": true }
+  ]
+}

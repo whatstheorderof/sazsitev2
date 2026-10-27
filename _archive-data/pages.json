@@ -1,0 +1,638 @@
+{
+ "/about-us": {
+  "name": "About Us",
+  "type": "content",
+  "layout": null,
+  "keys": "id,hide_using_4ormat,type,layout,name,image_width,layout_options,category_id,dependencies,url,access_control,is_homepage,is_title_page,is_title_page_without_variables,cover_image,sample_page,has_social_integration,content_modules,needs_wrap,content_editable,has_site_popups,show_cookie_banner,content_page_inject_css,content_page_inject_js,canonical_url",
+  "assets": [],
+  "bodyHTML": 39113,
+  "bodyText": " SAZ Welcome Welcome Releases About Us PR PR SAZ The Agency Menu SAZ PR Airborn Gav PR Network Network Store Soundcloud Bandcamp SAZ Project BNT | SAZ SAZTumblr Discography Discography JOURNEY CHANCES DIVE AFTER DARK TRANSITIONS Albums Contact Share SAZ SAZ began in 2013 as Zane Morris-Stewart and Seon Rice-Lupin, a duo of musicians from West London, UK. Drawing inspiration from acoustic, hip-hop, soul, jazz and ambient styles of music, we created soundscapes as the product of our imaginations. As time passed and life changed direction for Seon, Zane began to make music with Kelvin, transitioning from the hip hop jazz style to a new eclectic mix, with heavier focus on folk/indie influences. Contactbookings@saztheagency.com The SAZ ProjectWe have constructed a self sustaining community, whose common language is art and music. Every song that we release features a \u2018Single\u2019 cover, compiled of a creatives work. We feel that in working together, we can create the perfect medium to get peoples work seen by new audiences! The Creative (photographer, painter, illustrator, designer, writer, tattoo artist, etc) can send in their work, and if used, develop's an initial link between themselves and our community. As people hear our music, they will see your work. Not only does it makes the creative feel involved, it acts as a pathway to broadcasting your artistry!The artist will receive their own \u2018SAZ Creatives page\u2019 if regularly featured; showcasing their work, links to their relevant materials, whist also being added to our rapidly expanding Directory. This means that if you\u2019re a photographer looking for say, a make up artist, you could refer to our listings, find an artist whose work appeals to you, and form further links for yourselves.A community of talent, all joined under our SAZ umbrella! Hear Ushttp://soundcloud.com/sazmusichttp://sazmusic.bandcamp.comhttp://twitter.com/deathbyleisurehttp://facebook.com/sazproject Copyright \u00a9 All rights reserved. document.createElement( \"picture\" ); var _gaq = _gaq || []; Using Format b, strong { font-weight: bold; } i, em { font-style: italic; } html body #using { height: auto!important; left: auto!important; line-height: 1!important; margin: 0!important; opacity: 0.5!important; padding: 0!important; position: fixed!important; text-indent: 0!important; top: auto!important; visibility: visible!important; width: auto!important; z-index: 2147483647!important; -webkit-transform: none!important; -moz-transform: none!important; -ms-transform: none!important; -o-transform: none!important; transform: none!important; -webkit-font-smoothing: antialiased; color: #555555!important; font-size: 11px; font-family: Arial, sans-serif!important; display:block!important; bottom: 20px!important; right: 20px!important; word-spacing: 0px!important; -webkit-user-select: none; -moz-user-select: none; cursor: default; } html body #using::before, html body #using::after { display: none!important; } #using a { opacity: 1!important; z-index: 2147483647!important; display:inline!important; position:static!important; text-decoration: none!important; border-bottom: 1px #555 solid !important; padding-bottom: 0.1em; color: #555555!important; } #using a:hover { color: #000000 !important; border-bottom-color: #000000 !important; text-decoration: none !important; } /* Cookie Banner Modal Stylesheet */ /* Responsive font sizes for cookie banner elements */ .cookie-banner-details { font-size: 4vw; /* Default for mobile */ } .cookie-banner-details .inline-link-button, .cookie-banner-details button { font-size: 4vw; /* Default for mobile */ } /* Desktop styles (min-width: 768px) */ @media (min-width: 768px) { .cookie-banner-details { font-size: 14px; } .cookie-banner-details .inline-link-button, .cookie-banner-details button:not(.save-button):not(.accept_button):not(.decline_button) { font-size: 14px; } .cookie-banner-details .save-button, .cookie-banner-details .accept_button, .cookie-banner-details .decline_button { font-size: 14px; "
+ },
+ "/saz-the-agencymenu": {
+  "name": "SAZ The Agency Menu",
+  "type": "content",
+  "layout": null,
+  "keys": "id,hide_using_4ormat,type,layout,name,image_width,layout_options,category_id,dependencies,url,access_control,is_homepage,is_title_page,is_title_page_without_variables,cover_image,sample_page,has_social_integration,content_modules,needs_wrap,content_editable,has_site_popups,show_cookie_banner,content_page_inject_css,content_page_inject_js,canonical_url",
+  "assets": [],
+  "bodyHTML": 45447,
+  "bodyText": " SAZ The Agency BRIEF CASES / MUSIC / SAZ Releases document.createElement( \"picture\" ); var _gaq = _gaq || []; /* Cookie Banner Modal Stylesheet */ /* Responsive font sizes for cookie banner elements */ .cookie-banner-details { font-size: 4vw; /* Default for mobile */ } .cookie-banner-details .inline-link-button, .cookie-banner-details button { font-size: 4vw; /* Default for mobile */ } /* Desktop styles (min-width: 768px) */ @media (min-width: 768px) { .cookie-banner-details { font-size: 14px; } .cookie-banner-details .inline-link-button, .cookie-banner-details button:not(.save-button):not(.accept_button):not(.decline_button) { font-size: 14px; } .cookie-banner-details .save-button, .cookie-banner-details .accept_button, .cookie-banner-details .decline_button { font-size: 14px; } } /* Additional cookie banner styling */ .cookie-banner-details .inline-link-button { color: #231f20; background: none; border: none; text-decoration: underline; cursor: pointer; padding: 0; } /* Image Protection */ #image_protection_notice { color: #000; padding: 8px 8px; width: 200px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; margin: 0; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; background: #fff; box-shadow: 0 0 5px #222; -webkit-box-shadow: 0 0 5px #222; -moz-box-shadow: 0 0 5px #222; box-shadow: 0 0 5px #222 } //<![CDATA[ var _4ORMAT_DATA = {\"asset_base_path\":\"https://bucket0.format-assets.com/theme_versions/10962527/assets/\",\"app_domain\":\"www.format.com\",\"page\":{\"id\":3462435,\"hide_using_4ormat\":true,\"type\":\"content\",\"layout\":null,\"name\":\"SAZ The Agency Menu\",\"image_width\":null,\"layout_options\":null,\"category_id\":227045,\"dependencies\":{\"fonts\":{\"google\":{\"url\":\"https://fonts.creatorcdn.com/apis/css2?family=PT Serif\"},\"4ormat\":true},\"javascripts\":[],\"stylesheets\":[\"title/title_17/stylesheets/style.css\"]},\"url\":\"/saz-the-agencymenu\",\"access_control\":\"online\",\"is_homepage\":false,\"is_title_page\":true,\"is_title_page_without_variables\":true,\"cover_image\":{\"dominant_color\":\"#372417\",\"image_url_2500x0\":\"https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/652,0,1359,478,2500,1690/0-0-0/798b3a5f-2685-497e-81f1-1930cc70139d/1/2/John-Martin-xx-The-Destruction-of-Pompeii-and-Herculaneum-xx-Tate-Britain.jpg?fjkss=exp=2108730580~hmac=8ce2f55fca1d159d04e591e8982fb7ff11772c1b1920235ac7867f4703541e2f\",\"image_dimensions_2500x0\":[2500,1690],\"image_uncropped_dimensions_2500x0\":[2500,594],\"image_url_900x0\":\"https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/652,0,1359,478,900,608/0-0-0/798b3a5f-2685-497e-81f1-1930cc70139d/1/2/John-Martin-xx-The-Destruction-of-Pompeii-and-Herculaneum-xx-Tate-Britain.jpg?fjkss=exp=2108730580~hmac=09400099be04cc1f9b84c69ef7bbf0405469b45f18357007ee3a28db9e9aa41b\",\"image_dimensions_900x0\":[900,608],\"image_uncropped_dimensions_900x0\":[900,213],\"image_url_700x0\":\"https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/652,0,1359,478,700,473/0-0-0/798b3a5f-2685-497e-81f1-1930cc70139d/1/2/John-Martin-xx-The-Destruction-of-Pompeii-and-Herculaneum-xx-Tate-Britain.jpg?fjkss=exp=2108730580~hmac=0a18e1e789881b8e1115ec4bb82dbef000fbdf7f313fd56e1f91a6dfde41ce37\",\"image_dimensions_700x0\":[700,473],\"image_uncropped_dimensions_700x0\":[700,166],\"image_url_550x0\":\"https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/652,0,1359,478,550,372/0-0-0/798b3a5f-2685-497e-81f1-1930cc70139d/1/2/John-Martin-xx-The-Destruction-of-Pompeii-and-Herculaneum-xx-Tate-Britain.jpg?fjkss=exp=2108730580~hmac=622f4621afb3523e854824b84ca12835e0c11eb96f78c6a0672855863f2d1aff\",\"image_dimensions_550x0\":[550,371],\"image_uncropped_dimensions_550x0\":[550,130],\"image_url_400x0\":\"https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/652,0,1359,478,400,270/0-0-0/798b3a5f-2685-497e-81f1-1930cc70139d/1/2/John-Martin-xx-The-Destruction-of-Pompeii-and-Herculaneum-xx-Tate-Britain.jpg?fjkss=exp=2108730580~hmac=650be0aaa8b8b2e0ef7bb7f5793f2b6d87a2dc9"
+ },
+ "/pr": {
+  "name": "SAZ PR",
+  "type": "content",
+  "layout": null,
+  "keys": "id,hide_using_4ormat,type,layout,name,image_width,layout_options,category_id,dependencies,url,access_control,is_homepage,is_title_page,is_title_page_without_variables,cover_image,sample_page,has_social_integration,content_modules,needs_wrap,content_editable,has_site_popups,show_cookie_banner,content_page_inject_css,content_page_inject_js,canonical_url",
+  "assets": [],
+  "bodyHTML": 1430275,
+  "bodyText": " SAZ Welcome Welcome Releases About Us PR PR SAZ The Agency Menu SAZ PR Airborn Gav PR Network Network Store Soundcloud Bandcamp SAZ Project BNT | SAZ SAZTumblr Discography Discography JOURNEY CHANCES DIVE AFTER DARK TRANSITIONS Albums Contact Share SAZ SAZ - On The Brink of Something GreatSAZ is Zane Morris and Kelvin Bueno, a duo of self producing musicians hailing from London, drawing inspiration from and inventively blending indie, soul, folk, jazz, acoustic, hip-hop and ambient elements to create gripping soundscapes. From ethereal instrumentals and songwriting met with verses from featured artists such as Joe James, Miraa May, Airborn Gav & Kojey Radical, to gentle indie/folk-inspired guitar riffs and emotive lyrics that sound like your innermost thoughts out-loud. Highlighted as a one to watch by Red Bull London, and featured on GRM Daily for Scum, the second single from Chances LP, and Call Back, to Transitions, Dread Full and this years The Great Escape, SAZ are musicians that both embody and rebel against London's underground DIY sound: They perform with a five piece band for live performance, and also do acoustic sets with portions of live producing via loop pedal performances.Undeniably, they are on the brink of something great. Zane Kelvin Our Ethos Positive collaboration is key for us. We've had a lot of fun creating music not just for ourselves, but for our SAZ family and other artists that we take an interest in. Links:Apple MusicSpotifySoundcloudInstagram@kelvinkinderbueno@zane.saz@saztheband DISCOGRAPHY SAZ - Zane: Changing Tides SAZ - Dread Full II (2022) SAZ - Sky Roads (2020) SAZ - 22 Reasons To Stay (2019) SAZ - The Great Escape (2019) SAZ - Dread Full (2018) SAZ - Transitions (2017) SAZ - After Dark (2016) SAZ - Chances (2015) SAZ - Journey (2014) SAZ - Dive (2013) SAZ - How You Feel (2013) SAZ - Take Time (2012) Executive Production For: Joe James Airborn Gav Charlie T (Gz Tian) MustBeJohn Next Up: Latest Projects Videos SAZ - Meet Me In Paris (Music Video)SAZ Films presents 'Meet Me In Paris'. Produced by Zane SAZ. Featuring Airborn Gav. Directed, Shot and Edited by Alex O'Brian. Artwork by Dree Velicaria. SAZ & Aaron Unknown - Chasing (Music Video)SAZ Films presents Chasing.Produced by Zane SAZ. Featuring Aaron Unknown. Directed, Shot and Edited by Zane SAZ. Artwork by Dree Velicaria. SAZ - Scum (Music Video)Starring Olive Gray and Reece Miller. Directed by Zane Morris. Assistant Directed by Undine Markus.Produced by Zane SAZ. Soundcloud Instagram Gallery Press & Reviews For The Fans Of\"Their sound comes from so many different places its difficult to place \u2013 acoustic guitars with hip-hop beats recall Alt-J, a slow melodic vocal style that reminds us of Drake and clean, reverb-heavy guitars seems to suggest a direct influence of Foals. \" Indie Crush\"Its artists such as SAZ that force us here at Indie Crush to broaden our horizons from time to time and recognise the amazing, innovative talent of our current generation of young musicians. SAZ have that vast, cinematic quality of songwriting that recalls the brilliance of Frank Ocean\u2019s output \u2013 and perhaps in a few years they could be making an album to rival his legacy\u2026\" Urban Radar\"SAZ play tribute to some of those lost this year in their upcoming EP \u2018Dread full\u2019, which is dedicated to rising hip-hop stars Mac Miller, XXXtentacion, and Lil Peep, alongside rock vocalist Chester Bennington...Dread Full\u2019 is evocative, and it is SAZ\u2019s talent for conjuring with impressive authenticity snapshots of mindsets and emotions through music that makes what they are doing very special.\" Hear Me Roar\"Although the sound is reminiscent of chill-out, ambient tracks; the overall effect is different. The song manages to encapsulate with impressive verisimilitude the thoughts and feelings of a deep, paralyzing depression and the lyrics reference the oppressive sense of stagnation that accompanies such a mindset... The power of \u2018Seven Deadly Sins\u2019 lies in its considerable em"
+ },
+ "/airborngav": {
+  "name": "Airborn Gav PR",
+  "type": "content",
+  "layout": null,
+  "keys": "id,hide_using_4ormat,type,layout,name,image_width,layout_options,category_id,dependencies,url,access_control,is_homepage,is_title_page,is_title_page_without_variables,cover_image,sample_page,has_social_integration,content_modules,needs_wrap,content_editable,has_site_popups,show_cookie_banner,content_page_inject_css,content_page_inject_js,canonical_url",
+  "assets": [],
+  "bodyHTML": 228146,
+  "bodyText": " SAZ Welcome Welcome Releases About Us PR PR SAZ The Agency Menu SAZ PR Airborn Gav PR Network Network Store Soundcloud Bandcamp SAZ Project BNT | SAZ SAZTumblr Discography Discography JOURNEY CHANCES DIVE AFTER DARK TRANSITIONS Albums Contact Share Airborn Gav East London Based Musician Subtle tones & a deeper soul. Gallery Recent Projects Terminal FreeTerminal Free: Departures.It\u2019s been a good yet challenging year for him but he has not allowed those obstacles to get in the way of his destination in the music scene.Terminal Free is Airborn Gav\u2019s best depiction of his free state of mind, his view on music, and where he stands as an emerging artist.He has a history of revamping and taking a different approach to his past projects, T.H.C: The Hustler\u2019s Coma and R.N.B: Ratchet N*gga Blues.For example with \u201cTake It Slow\u201d off of the T.H.C project, and later revamped to the current version out now on Soundcloud.Terminal Free features some well known up and coming artists such as Nipah, Spacey Blak, J Flowz, and Selvsse.SpotifyApple Music Music Spotify Soundcloud Music Videos Airborn Gav - Old Ting Airborn Gav - Closer Than Close Airborn Gav - Take It Slow Airborn Gav - Crud Airborn Gav - Truss Me Airborn Gav - Puff Daddy Press & Reviews AirBorn Gav \u2013 Terminal Free: Departures EP Review: Certified UK - Janicia LaMonaIn this EP Airborn Gav blends soft flowing melodies, meanwhile injecting his lyrical abilities over some great beats.Decimals features rapper J Flowz and is the first song on the EP. A slow and mellow beat accompanied by a very catchy chorus, with lyrics that are somewhat encouraging. Lyrics like \u2018We want it all, add another decimal\u2019 referring to making and earning more money. Lyrically both artists flow simultaneously over the beat. They both bring different elements to the song, complementing each other very well.Karma In This Seat follows, featuring Nipah. It starts off with some sexual stimulating, Ariborn Gav\u2019s voice is seductive yet flirtatious. Following on from the flow of the EP, the beat is tantalizing and very melodic. There is use of clever wordplay, Ariborn Gav spits some reality in this song. Singing alongside his raps beautifully in the background is Nipah, her voice is mesmerising and very prominent in this song.Sixty, despite also continuing the mellow vibes of the EP, Sixty is a bit more up-tempo. The beat is bouncy, with a variation of instrumentals which gives the song that extra edge. In his mellow voice, he describes a time when he travelled in distress to meet a young lady who was worth all the hassle which saw him speeding, running through red lights. But he did say she was worth it!Closer Than Close we have heard about it and it is the final song and a Bonus track. It carries a very strong R&B sound, Airbon Gav is exercising his vocals, singing nicely over the rhythm and beat. He gets to show off his talents of both singing and rapping, executing both very well. This song also has some elements of trap, mostly identified in the background towards the end.Terminal Free: Departures Is a very well put together project, giving you both good songs, accompanied by melodic beats and clever lyrics. Whilst listening to it, there is that element of solace and euphoric peace. Explicit London Complex Certified UK The Line of Best Fit Links Spotify Twitter Band Camp Instagram Copyright \u00a9 All rights reserved. document.createElement( \"picture\" ); var _gaq = _gaq || []; Using Format b, strong { font-weight: bold; } i, em { font-style: italic; } html body #using { height: auto!important; left: auto!important; line-height: 1!important; margin: 0!important; opacity: 0.5!important; padding: 0!important; position: fixed!important; text-indent: 0!important; top: auto!important; visibility: visible!important; width: auto!important; z-index: 2147483647!important; -webkit-transform: none!important; -moz-transform: none!important; -ms-transform: none!important; -o-transform: none!important; transform: none!important; -web"
+ },
+ "/journey": {
+  "name": "JOURNEY",
+  "type": "gallery",
+  "layout": "vertical",
+  "keys": "id,hide_using_4ormat,type,layout,name,image_width,layout_options,category_id,dependencies,url,access_control,title,assets,asset_offset_position,last_asset_position,is_homepage,is_title_page,is_title_page_without_variables,cover_image,sample_page,has_social_integration,has_native_video,content_editable,has_site_popups,show_cookie_banner,content_page_inject_css,content_page_inject_js,canonical_url",
+  "assets": [
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,3643,2429,2500,2429/0-0-0/ad213121-2006-4314-a88a-da65d4177aaa/1/1/IMG_1696+as+Smart+Object-2.jpg?fjkss=exp=2108730585~hmac=98eedf6e3629d180041a1eee693bc8ed63fd1d542fd1ab13b2f4e68f79b8c493",
+    "col": "#1E1E1E"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,3643,2429,2500,2429/0-0-0/f8ec0084-6e28-4f96-9df6-28caed555050/1/1/IMG_1743.jpg?fjkss=exp=2108730585~hmac=98eedf6e3629d180041a1eee693bc8ed63fd1d542fd1ab13b2f4e68f79b8c493",
+    "col": "#1E1E1E"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,3643,2429,2500,2429/0-0-0/7ee97925-c4e8-4c34-bd36-95a7d504303e/1/1/IMG_1697+as+Smart+Object-1.jpg?fjkss=exp=2108730585~hmac=98eedf6e3629d180041a1eee693bc8ed63fd1d542fd1ab13b2f4e68f79b8c493",
+    "col": "#101010"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2429,3643,2500,3643/0-0-0/e6429482-2099-424b-ad80-5ee4b1de6ecd/1/1/IMG_1537+as+Smart+Object-1.jpg?fjkss=exp=2108730585~hmac=5b0f240391c5067b7c6f32566953f8b521671d7f9f6e0bab996e1b8d0900b3bf",
+    "col": "#F1F1F1"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,3643,2429,2500,2429/0-0-0/5e422162-1e2d-4067-a1d3-115d10577026/1/1/IMG_1832.jpg?fjkss=exp=2108730585~hmac=98eedf6e3629d180041a1eee693bc8ed63fd1d542fd1ab13b2f4e68f79b8c493",
+    "col": "#040303"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,4272,2016,2500,2016/0-0-0/2c9013ff-2fa4-49e2-9488-c00e7a440d8e/1/1/IMG_1532_as_Smart_Object-1.jpg?fjkss=exp=2108730585~hmac=cedb757bed7df86988bd38a1d637a7264914ec8f719ec48b4127ef2190644639",
+    "col": "#252525"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,3643,2429,2500,2429/0-0-0/e57bb65a-c489-4d8f-8551-9dcd33d3800f/1/1/IMG_1467+as+Smart+Object-1.jpg?fjkss=exp=2108730585~hmac=98eedf6e3629d180041a1eee693bc8ed63fd1d542fd1ab13b2f4e68f79b8c493",
+    "col": "#EEF2EC"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,3643,2429,2500,2429/0-0-0/17c31ceb-cc2f-4bde-a345-a014983e2c10/1/1/IMG_1464_as_Smart_Object-1.jpg?fjkss=exp=2108730585~hmac=98eedf6e3629d180041a1eee693bc8ed63fd1d542fd1ab13b2f4e68f79b8c493",
+    "col": "#231E20"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2429,3643,2500,3643/0-0-0/c7fb904c-c7a2-4c2b-b76d-3788ac1793d0/1/1/IMG_1482+as+Smart+Object-1.jpg?fjkss=exp=2108730585~hmac=5b0f240391c5067b7c6f32566953f8b521671d7f9f6e0bab996e1b8d0900b3bf",
+    "col": "#FDFDFD"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,3643,2429,2500,2429/0-0-0/95777ca9-c3bf-4d99-8122-3ad661eff39b/1/1/IMG_1471+as+Smart+Object-1.jpg?fjkss=exp=2108730585~hmac=98eedf6e3629d180041a1eee693bc8ed63fd1d542fd1ab13b2f4e68f79b8c493",
+    "col": "#F8F6F2"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/9c50a1f0-cf1b-4a3d-982e-1d0b492bc661/1/1/journey_cover.jpg?fjkss=exp=2108730585~hmac=0f9f2c99bd47375576468d8fac9ead79d5d6f47b5b323258a0aa581b56008fc1",
+    "col": "#102B2A"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1546,967,2500,967/0-0-0/feb1d535-2798-4293-a415-dfde599d80b9/1/1/Scan06+2.jpg.jpg?fjkss=exp=2108730585~hmac=b7a8207469d24057bd161bfcc175a31f0d1a5cf5563a9a7a85089176103c0838",
+    "col": "#1A221D"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1698,1061,2500,1061/0-0-0/c9a84b75-4270-40f3-ac3f-d3b0bb1bf590/1/1/Scan05.jpg1.jpg?fjkss=exp=2108730585~hmac=9a8e74cec9398f4384761f9887fb0852f64da167fd5e2fad7ead22dd56c64e57",
+    "col": "#D9D9E4"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1768,1104,2500,1104/0-0-0/3779ab5f-34d6-4cad-bae0-fb322e88aad9/1/1/Scan04.jpg1.jpg?fjkss=exp=2108730585~hmac=5e6c189e334c8cf0c16a68231c7f6e1bf15f1962993a271a80628bc1b95f9cf1",
+    "col": "#0B0B10"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1756,1097,2500,1097/0-0-0/3e8680f7-724c-444d-9cb9-3d88bdf455ad/1/1/Scan03.jpg1.jpg?fjkss=exp=2108730585~hmac=3809da4799317ee85433b6b3995907cc9d1953c814fe5ba73980a5748ac97de7",
+    "col": "#0B0B10"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1666,1040,2500,1040/0-0-0/fb855557-ef5f-4068-8de7-49c0d8b73be1/1/1/Scan10.jpg1.jpg?fjkss=exp=2108730585~hmac=f74f345fd27b2449568c26ed900d08d6377083e790c69199659cc256c33d339a",
+    "col": "#0E0E13"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1770,1106,2500,1106/0-0-0/79144dfc-f3e8-4811-bc6f-e85fb50405eb/1/1/Scan02.jpg1.jpg?fjkss=exp=2108730585~hmac=e1d6ee09112129f24b1b0960eb8b2497b16110be4365d35a4601db14dd86dd03",
+    "col": "#0C0F12"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1752,1095,2500,1095/0-0-0/a4a394f0-ce65-442d-b243-bfd4f42b9ef9/1/1/Scan09.jpg1.jpg?fjkss=exp=2108730585~hmac=7e654cd8e63acfef4c43bb02e4de2054e1243c04f8e3100bf5f98a37e2545d4b",
+    "col": "#090B10"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1764,1102,2500,1102/0-0-0/36006688-9e0d-48f4-8b15-b8feb1f9d337/1/1/Scan07.jpg1.jpg?fjkss=exp=2108730585~hmac=36d670be8dd3121ddf17f556353087f3396d0db359b1b588febb0bfbc08da6c8",
+    "col": "#0A0D11"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1486,929,2500,929/0-0-0/70adf383-ef1d-4b94-9719-c6fe9e439f6c/1/1/Scan06.jpg1.jpg?fjkss=exp=2108730585~hmac=d6912be11d64f759c9b3636ceaefa8c83a70747a13f19f36d09200919b577eb4",
+    "col": "#07060C"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1596,998,2500,998/0-0-0/1d63dff6-6b81-4860-8853-10e0887e687a/1/1/Scan+2.jpg.jpg?fjkss=exp=2108730585~hmac=04cf5097923d60c7900ecbdabac05cfe43aee586d3a3da2b9af026b23847faeb",
+    "col": "#08080D"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2307,2307,2500,2307/0-0-0/3e35c4c4-6c56-4d77-afea-c568d1747c7b/1/1/2012-03-15_16_55_52-1.jpg?fjkss=exp=2108730585~hmac=1bb6373c76a11f5f52a3df3747dd0692bdc78acd95e83e64cdae24c36d8e712b",
+    "col": "#F88E90"
+   }
+  ],
+  "bodyHTML": 373953,
+  "bodyText": " SAZ Welcome Welcome Releases About Us PR PR SAZ The Agency Menu SAZ PR Airborn Gav PR Network Network Store Soundcloud Bandcamp SAZ Project BNT | SAZ SAZTumblr Discography Discography JOURNEY CHANCES DIVE AFTER DARK TRANSITIONS Albums Contact Share if (Math.floor(Math.random() * 100) < 1) { const Http = new XMLHttpRequest(); Http.open(\"GET\", '/track?ref=' + document.referrer); Http.send(); } Copyright \u00a9 All rights reserved. document.createElement( \"picture\" ); var _gaq = _gaq || []; Using Format b, strong { font-weight: bold; } i, em { font-style: italic; } html body #using { height: auto!important; left: auto!important; line-height: 1!important; margin: 0!important; opacity: 0.5!important; padding: 0!important; position: fixed!important; text-indent: 0!important; top: auto!important; visibility: visible!important; width: auto!important; z-index: 2147483647!important; -webkit-transform: none!important; -moz-transform: none!important; -ms-transform: none!important; -o-transform: none!important; transform: none!important; -webkit-font-smoothing: antialiased; color: #555555!important; font-size: 11px; font-family: Arial, sans-serif!important; display:block!important; bottom: 20px!important; right: 20px!important; word-spacing: 0px!important; -webkit-user-select: none; -moz-user-select: none; cursor: default; } html body #using::before, html body #using::after { display: none!important; } #using a { opacity: 1!important; z-index: 2147483647!important; display:inline!important; position:static!important; text-decoration: none!important; border-bottom: 1px #555 solid !important; padding-bottom: 0.1em; color: #555555!important; } #using a:hover { color: #000000 !important; border-bottom-color: #000000 !important; text-decoration: none !important; } /* Cookie Banner Modal Stylesheet */ /* Responsive font sizes for cookie banner elements */ .cookie-banner-details { font-size: 4vw; /* Default for mobile */ } .cookie-banner-details .inline-link-button, .cookie-banner-details button { font-size: 4vw; /* Default for mobile */ } /* Desktop styles (min-width: 768px) */ @media (min-width: 768px) { .cookie-banner-details { font-size: 14px; } .cookie-banner-details .inline-link-button, .cookie-banner-details button:not(.save-button):not(.accept_button):not(.decline_button) { font-size: 14px; } .cookie-banner-details .save-button, .cookie-banner-details .accept_button, .cookie-banner-details .decline_button { font-size: 14px; } } /* Additional cookie banner styling */ .cookie-banner-details .inline-link-button { color: #231f20; background: none; border: none; text-decoration: underline; cursor: pointer; padding: 0; } /* Image Protection */ #image_protection_notice { color: #000; padding: 8px 8px; width: 200px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; margin: 0; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; background: #fff; box-shadow: 0 0 5px #222; -webkit-box-shadow: 0 0 5px #222; -moz-box-shadow: 0 0 5px #222; box-shadow: 0 0 5px #222 } //<![CDATA[ var _4ORMAT_DATA = {\"asset_base_path\":\"https://bucket0.format-assets.com/theme_versions/10962527/assets/\",\"app_domain\":\"www.format.com\",\"page\":{\"id\":3760433,\"hide_using_4ormat\":false,\"type\":\"gallery\",\"layout\":\"vertical\",\"name\":\"JOURNEY\",\"image_width\":null,\"layout_options\":null,\"category_id\":144199,\"dependencies\":{\"fonts\":{\"google\":{\"url\":\"https://fonts.creatorcdn.com/apis/css2?family=PT Serif\"},\"4ormat\":true}},\"url\":\"/journey\",\"access_control\":\"online\",\"title\":{\"id\":34854485,\"type\":\"title\",\"copy\":\"<iframe width=\\\"100%\\\" height=\\\"450\\\" scrolling=\\\"no\\\" frameborder=\\\"no\\\" src=\\\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/68490502&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\\\"></iframe>\",\"copy_alignment\":\"only\",\"alt_text\":\"\",\"image_url\":null},\"assets\":[{\"id\":34854753,\"type\":\"image\",\"copy_alignment\":\"none\",\"copy\":null,\"width\":0,\"copy_width\":0,\"sca"
+ },
+ "/chances": {
+  "name": "CHANCES",
+  "type": "gallery",
+  "layout": "vertical",
+  "keys": "id,hide_using_4ormat,type,layout,name,image_width,layout_options,category_id,dependencies,url,access_control,title,assets,asset_offset_position,last_asset_position,is_homepage,is_title_page,is_title_page_without_variables,cover_image,sample_page,has_social_integration,has_native_video,content_editable,has_site_popups,show_cookie_banner,content_page_inject_css,content_page_inject_js,canonical_url",
+  "assets": [
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,3643,2429,2500,2429/0-0-0/fadcb734-cede-4f81-a10b-8ef678f5dd5b/1/1/2015-02-24_07_29_04.jpg?fjkss=exp=2108730586~hmac=1862e048b29123a1c556762d3cf07e7c0ae4fc298b5982823344f34eddfb0cef",
+    "col": "#D0EFEC"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2429,3643,2500,3643/0-0-0/13876f58-07ec-412b-be5f-c0dc6dc3e5d7/1/1/2015-02-24_07_29_45.jpg?fjkss=exp=2108730586~hmac=77bea6f36c1ddca343eaddbd8dd7821631d517443a787d207b2a707d514e0d79",
+    "col": "#010101"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,3643,2428,2500,2428/0-0-0/3efd658b-588b-474f-8781-2deef61e8a02/1/1/2015-02-24_07_29_14.jpg?fjkss=exp=2108730586~hmac=f5f105298f45d5c2f460ea582ef2de650d0cf687634eff036e9e6041c3165f03",
+    "col": "#050505"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,3643,2428,2500,2428/0-0-0/9566b4b4-7cbf-417c-83ae-a23b8e5227d7/1/1/2015-02-24_07_29_11.jpg?fjkss=exp=2108730586~hmac=f5f105298f45d5c2f460ea582ef2de650d0cf687634eff036e9e6041c3165f03",
+    "col": "#575757"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2000,2000,2500,2000/0-0-0/a9908662-a2ca-496b-a89e-bb53a2755547/1/1/sazchances_cover2000X2000.jpg?fjkss=exp=2108730586~hmac=4dc3cbfb90a1698dd4d558a3ed7238c9ea888cf7708b16e6c2732927119cf480",
+    "col": "#0E0C08"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2872,2872,2500,2872/0-0-0/7a31f532-c856-4f6d-bb96-acc2778aed45/1/1/fault_cover.jpg?fjkss=exp=2108730586~hmac=f0f246b72bd4bd27913abb082ad396cd4954819ca0df7771abdeac29a097da82",
+    "col": "#FFFFFF"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/dfed4a91-048c-410b-9d21-3fbbd358bcf0/1/1/scum_cover.jpg?fjkss=exp=2108730586~hmac=2fb058364aeaa8979e59e1d1d18f2e04b7bb4acb5089323cc4103b97b600a1f3",
+    "col": "#698996"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,609,606,2500,606/0-0-0/b22b6910-89a6-4ee4-b1d2-b526af278b09/1/1/sydney_cover.jpg?fjkss=exp=2108730586~hmac=1dec609cbd2ffc726f3e901dc1a6fb8550debfb2bdf578d1fa344a017fed922f",
+    "col": "#010101"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2048,2048,2500,2048/0-0-0/7c6c4087-e292-4246-b6c7-6592c141113d/1/1/youth_cover.jpg?fjkss=exp=2108730586~hmac=2b3a3644a3eecae04fbe4f0e1898e29e08a7c2d15c5a87733dbcf20441024644",
+    "col": "#F1F2F4"
+   }
+  ],
+  "bodyHTML": 178988,
+  "bodyText": " SAZ Welcome Welcome Releases About Us PR PR SAZ The Agency Menu SAZ PR Airborn Gav PR Network Network Store Soundcloud Bandcamp SAZ Project BNT | SAZ SAZTumblr Discography Discography JOURNEY CHANCES DIVE AFTER DARK TRANSITIONS Albums Contact Share if (Math.floor(Math.random() * 100) < 1) { const Http = new XMLHttpRequest(); Http.open(\"GET\", '/track?ref=' + document.referrer); Http.send(); } Copyright \u00a9 All rights reserved. document.createElement( \"picture\" ); var _gaq = _gaq || []; Using Format b, strong { font-weight: bold; } i, em { font-style: italic; } html body #using { height: auto!important; left: auto!important; line-height: 1!important; margin: 0!important; opacity: 0.5!important; padding: 0!important; position: fixed!important; text-indent: 0!important; top: auto!important; visibility: visible!important; width: auto!important; z-index: 2147483647!important; -webkit-transform: none!important; -moz-transform: none!important; -ms-transform: none!important; -o-transform: none!important; transform: none!important; -webkit-font-smoothing: antialiased; color: #555555!important; font-size: 11px; font-family: Arial, sans-serif!important; display:block!important; bottom: 20px!important; right: 20px!important; word-spacing: 0px!important; -webkit-user-select: none; -moz-user-select: none; cursor: default; } html body #using::before, html body #using::after { display: none!important; } #using a { opacity: 1!important; z-index: 2147483647!important; display:inline!important; position:static!important; text-decoration: none!important; border-bottom: 1px #555 solid !important; padding-bottom: 0.1em; color: #555555!important; } #using a:hover { color: #000000 !important; border-bottom-color: #000000 !important; text-decoration: none !important; } /* Cookie Banner Modal Stylesheet */ /* Responsive font sizes for cookie banner elements */ .cookie-banner-details { font-size: 4vw; /* Default for mobile */ } .cookie-banner-details .inline-link-button, .cookie-banner-details button { font-size: 4vw; /* Default for mobile */ } /* Desktop styles (min-width: 768px) */ @media (min-width: 768px) { .cookie-banner-details { font-size: 14px; } .cookie-banner-details .inline-link-button, .cookie-banner-details button:not(.save-button):not(.accept_button):not(.decline_button) { font-size: 14px; } .cookie-banner-details .save-button, .cookie-banner-details .accept_button, .cookie-banner-details .decline_button { font-size: 14px; } } /* Additional cookie banner styling */ .cookie-banner-details .inline-link-button { color: #231f20; background: none; border: none; text-decoration: underline; cursor: pointer; padding: 0; } /* Image Protection */ #image_protection_notice { color: #000; padding: 8px 8px; width: 200px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; margin: 0; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; background: #fff; box-shadow: 0 0 5px #222; -webkit-box-shadow: 0 0 5px #222; -moz-box-shadow: 0 0 5px #222; box-shadow: 0 0 5px #222 } //<![CDATA[ var _4ORMAT_DATA = {\"asset_base_path\":\"https://bucket0.format-assets.com/theme_versions/10962527/assets/\",\"app_domain\":\"www.format.com\",\"page\":{\"id\":3757938,\"hide_using_4ormat\":false,\"type\":\"gallery\",\"layout\":\"vertical\",\"name\":\"CHANCES\",\"image_width\":null,\"layout_options\":null,\"category_id\":144199,\"dependencies\":{\"fonts\":{\"google\":{\"url\":\"https://fonts.creatorcdn.com/apis/css2?family=PT Serif\"},\"4ormat\":true}},\"url\":\"/chances\",\"access_control\":\"online\",\"title\":{\"id\":34818081,\"type\":\"title\",\"copy\":\"<iframe width=\\\"100%\\\" height=\\\"450\\\" scrolling=\\\"no\\\" frameborder=\\\"no\\\" src=\\\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/148518056&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\\\"></iframe>\",\"copy_alignment\":\"only\",\"alt_text\":\"\",\"image_url\":null},\"assets\":[{\"id\":34854816,\"type\":\"image\",\"copy_alignment\":\"none\",\"copy\":null,\"width\":0,\"copy_width\":0,\"sc"
+ },
+ "/dive": {
+  "name": "DIVE",
+  "type": "content",
+  "layout": null,
+  "keys": "id,hide_using_4ormat,type,layout,name,image_width,layout_options,category_id,dependencies,url,access_control,is_homepage,is_title_page,is_title_page_without_variables,cover_image,sample_page,has_social_integration,content_modules,needs_wrap,content_editable,has_site_popups,show_cookie_banner,content_page_inject_css,content_page_inject_js,canonical_url",
+  "assets": [],
+  "bodyHTML": 62720,
+  "bodyText": " SAZ Welcome Welcome Releases About Us PR PR SAZ The Agency Menu SAZ PR Airborn Gav PR Network Network Store Soundcloud Bandcamp SAZ Project BNT | SAZ SAZTumblr Discography Discography JOURNEY CHANCES DIVE AFTER DARK TRANSITIONS Albums Contact Share SAZ X Dree Velicaria THE DIVE COLLECTION A joint collaboration soundtrack album between music and graphic design. DIVE was produced on a weekly basis over the course of seven weeks, with Dree Velicaria providing an image and us creating a track to go alongside it based on an anime soundtrack basis. About The completed works were presented at the Richmond Upon Thames Art and Design Exhibition in July 2013. The album can be downloaded for free here:https://soundcloud.com/sazmusic/sets/saz-dive Copyright \u00a9 All rights reserved. document.createElement( \"picture\" ); var _gaq = _gaq || []; Using Format b, strong { font-weight: bold; } i, em { font-style: italic; } html body #using { height: auto!important; left: auto!important; line-height: 1!important; margin: 0!important; opacity: 0.5!important; padding: 0!important; position: fixed!important; text-indent: 0!important; top: auto!important; visibility: visible!important; width: auto!important; z-index: 2147483647!important; -webkit-transform: none!important; -moz-transform: none!important; -ms-transform: none!important; -o-transform: none!important; transform: none!important; -webkit-font-smoothing: antialiased; color: #555555!important; font-size: 11px; font-family: Arial, sans-serif!important; display:block!important; bottom: 20px!important; right: 20px!important; word-spacing: 0px!important; -webkit-user-select: none; -moz-user-select: none; cursor: default; } html body #using::before, html body #using::after { display: none!important; } #using a { opacity: 1!important; z-index: 2147483647!important; display:inline!important; position:static!important; text-decoration: none!important; border-bottom: 1px #555 solid !important; padding-bottom: 0.1em; color: #555555!important; } #using a:hover { color: #000000 !important; border-bottom-color: #000000 !important; text-decoration: none !important; } /* Cookie Banner Modal Stylesheet */ /* Responsive font sizes for cookie banner elements */ .cookie-banner-details { font-size: 4vw; /* Default for mobile */ } .cookie-banner-details .inline-link-button, .cookie-banner-details button { font-size: 4vw; /* Default for mobile */ } /* Desktop styles (min-width: 768px) */ @media (min-width: 768px) { .cookie-banner-details { font-size: 14px; } .cookie-banner-details .inline-link-button, .cookie-banner-details button:not(.save-button):not(.accept_button):not(.decline_button) { font-size: 14px; } .cookie-banner-details .save-button, .cookie-banner-details .accept_button, .cookie-banner-details .decline_button { font-size: 14px; } } /* Additional cookie banner styling */ .cookie-banner-details .inline-link-button { color: #231f20; background: none; border: none; text-decoration: underline; cursor: pointer; padding: 0; } /* Image Protection */ #image_protection_notice { color: #000; padding: 8px 8px; width: 200px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; margin: 0; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; background: #fff; box-shadow: 0 0 5px #222; -webkit-box-shadow: 0 0 5px #222; -moz-box-shadow: 0 0 5px #222; box-shadow: 0 0 5px #222 } //<![CDATA[ var _4ORMAT_DATA = {\"asset_base_path\":\"https://bucket0.format-assets.com/theme_versions/10962527/assets/\",\"app_domain\":\"www.format.com\",\"page\":{\"id\":649115,\"hide_using_4ormat\":false,\"type\":\"content\",\"layout\":null,\"name\":\"DIVE\",\"image_width\":null,\"layout_options\":null,\"category_id\":144199,\"dependencies\":{\"fonts\":{\"google\":{\"url\":\"https://fonts.creatorcdn.com/apis/css2?family=PT Serif\"},\"4ormat\":true},\"javascripts\":[\"_common/colour_adjustments.js\"],\"stylesheets\":[\"_common/module_base.css\"]},\"url\":\"/dive\",\"access_control\":\"online\",\"is_homepage\":false,\"is_title_page\":false,\"is_title_page_without_variables\":false"
+ },
+ "/afterdark": {
+  "name": "AFTER DARK",
+  "type": "gallery",
+  "layout": "vertical",
+  "keys": "id,hide_using_4ormat,type,layout,name,image_width,layout_options,category_id,dependencies,url,access_control,title,assets,asset_offset_position,last_asset_position,is_homepage,is_title_page,is_title_page_without_variables,cover_image,sample_page,has_social_integration,has_native_video,content_editable,has_site_popups,show_cookie_banner,content_page_inject_css,content_page_inject_js,canonical_url",
+  "assets": [
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/ff1c06e0-23ce-45e6-a497-51a1d56c3010/1/1/SAZ_After_Dark_with_textlogo2.jpg?fjkss=exp=2108730589~hmac=ff877e9aed4eef140fc5d33b6d4ca29002c3600f5db45018969843d76159bf13",
+    "col": "#FCFCFC"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/69dec3c5-2763-4641-8458-6df7d516230f/1/1/SAZ_After_dark_plain_arttracklist.jpg?fjkss=exp=2108730589~hmac=ff877e9aed4eef140fc5d33b6d4ca29002c3600f5db45018969843d76159bf13",
+    "col": "#050505"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1024,683,2500,683/0-0-0/71f726c8-634a-4e6f-bc06-52e5db6abe2e/1/1/20151111_-_405_saz_lock_in-12_zpslyoz10aa.jpg?fjkss=exp=2108730589~hmac=3a07fee41b7d87bfd9b7fa7dc44604c157c85d3d60e72a1b43b42191f7e048a2",
+    "col": "#090605"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1024,683,2500,683/0-0-0/e4aefbe1-98b1-424d-9da1-064e7a3e4ed3/1/1/20151111_-_405_saz_lock_in-1_zpswfgsybvz.jpg?fjkss=exp=2108730589~hmac=3a07fee41b7d87bfd9b7fa7dc44604c157c85d3d60e72a1b43b42191f7e048a2",
+    "col": "#0C0B07"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1024,683,2500,683/0-0-0/0d4fe5db-5b31-4062-9b50-00df05ecc211/1/1/20151111_-_405_saz_lock_in-2_zpsotclzedx.jpg?fjkss=exp=2108730589~hmac=3a07fee41b7d87bfd9b7fa7dc44604c157c85d3d60e72a1b43b42191f7e048a2",
+    "col": "#0B0907"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1024,683,2500,683/0-0-0/b5649a2a-7885-437d-9a19-5249bbec7909/1/1/20151111_-_405_saz_lock_in-5_zpsdq9huctv.jpg?fjkss=exp=2108730589~hmac=3a07fee41b7d87bfd9b7fa7dc44604c157c85d3d60e72a1b43b42191f7e048a2",
+    "col": "#141109"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1024,683,2500,683/0-0-0/dbd994ef-b0e8-4c35-9be5-394cb4d028be/1/1/20151111_-_405_saz_lock_in-11_zpsa3riv3vf.jpg?fjkss=exp=2108730589~hmac=3a07fee41b7d87bfd9b7fa7dc44604c157c85d3d60e72a1b43b42191f7e048a2",
+    "col": "#0E0805"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1024,683,2500,683/0-0-0/8608368c-fc61-4954-a0c5-3222308e9083/1/1/20151111_-_405_saz_lock_in-9_zpsnua0t2xe.jpg?fjkss=exp=2108730589~hmac=3a07fee41b7d87bfd9b7fa7dc44604c157c85d3d60e72a1b43b42191f7e048a2",
+    "col": "#0E0807"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1024,683,2500,683/0-0-0/154d1726-96f2-44ef-8eb5-73ea8e6afffb/1/1/20151111_-_405_saz_lock_in-10_zpsfefq9gxh.jpg?fjkss=exp=2108730589~hmac=3a07fee41b7d87bfd9b7fa7dc44604c157c85d3d60e72a1b43b42191f7e048a2",
+    "col": "#140A07"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1024,683,2500,683/0-0-0/e083d425-d795-4c57-a902-ad4ba5074d12/1/1/20151111_-_405_saz_lock_in-4_zpssubrs3kc.jpg?fjkss=exp=2108730589~hmac=3a07fee41b7d87bfd9b7fa7dc44604c157c85d3d60e72a1b43b42191f7e048a2",
+    "col": "#0F0C07"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1024,683,2500,683/0-0-0/64eb6f2a-753e-4315-b91b-6cfa6c3ee119/1/1/20151111_-_405_saz_lock_in-3_zpshgapkhhn.jpg?fjkss=exp=2108730589~hmac=3a07fee41b7d87bfd9b7fa7dc44604c157c85d3d60e72a1b43b42191f7e048a2",
+    "col": "#150C06"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1024,683,2500,683/0-0-0/423e6731-31ce-4fda-bc6f-6a32fc5e1be3/1/1/20151111_-_405_saz_lock_in-7_zpswfoburtn.jpg?fjkss=exp=2108730589~hmac=3a07fee41b7d87bfd9b7fa7dc44604c157c85d3d60e72a1b43b42191f7e048a2",
+    "col": "#0D0A07"
+   },
+   {
+    "t": "v",
+    "src": "youtube",
+    "u": "https://youtube.com/watch?v=R9LUJ1lDKOg",
+    "e": "https://www.youtube.com/embed/R9LUJ1lDKOg?rel=0&amp;wmode=opaque&amp;hd=1&amp;enablejsapi=1"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,465,750,2500,750/0-0-0/e9242c93-b8a1-41e0-ba7c-579db2f2750d/1/1/tumblr_no3tltgZpg1rrnekqo1_500.jpg?fjkss=exp=2108730589~hmac=0e4228f9ce4ce933f907c5af10d9ac7d6028ca253c74f086e83461b52b79096d",
+    "col": "#100F10"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2048,2048,2500,2048/0-0-0/78588bd3-b5dc-4ae3-a9b5-883f2f016b53/1/1/Faust_cover.jpg?fjkss=exp=2108730589~hmac=e4b09af517f98051a262c5b494d953090c46345bc0b6a73bb399a08dbdca0d9a",
+    "c": "<p>Faust</p>",
+    "col": "#101010"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1000,1000,2500,1000/0-0-0/a16e30de-d7ee-4f3e-abd5-7365086f9c25/1/1/alive.jpg?fjkss=exp=2108730589~hmac=c5e72fa7eb7083d0dce29d3bd77f7816104ba95de2c67f25454f28bdd3454afa",
+    "c": "<p>Alive</p><p><br></p>",
+    "col": "#131949"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,853,853,2500,853/0-0-0/cd004408-660f-4392-a95e-f34a3c4c91af/1/1/IMG_1702.jpg?fjkss=exp=2108730589~hmac=99f7e0d3b7be8a09975aed2b6d022cf96d02989bd2d1aa59e134cdef947a01f1",
+    "c": "<p>Go Back&nbsp;</p>",
+    "col": "#325049"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1000,1000,2500,1000/0-0-0/c557040b-74ab-46f5-9870-10bc91cbb1f1/1/1/treat_you.jpg?fjkss=exp=2108730589~hmac=c5e72fa7eb7083d0dce29d3bd77f7816104ba95de2c67f25454f28bdd3454afa",
+    "c": "<p>Treat You</p>",
+    "col": "#081534"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1030,1030,2500,1030/0-0-0/7451f0e9-6058-499b-9731-3d1995dd9c32/1/1/SAZcover_why_you.jpg?fjkss=exp=2108730589~hmac=5d2641e68dbc5cbb1804d74314bba68eb8ee54b674e37492f82c9809d19b169d",
+    "c": "<p>Why You</p>",
+    "col": "#E62B25"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2400,2400,2500,2400/0-0-0/cc3c314a-2738-49fc-9287-6c8006017065/1/1/raw_cover_PNG.png?fjkss=exp=2108730589~hmac=439cb1c1813d590f4cbbff6ea408901a2aa2eca80e50e349547b56754c8c5df5",
+    "c": "<p>Raw</p>",
+    "col": "#EAF2FF"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,960,960,2500,960/0-0-0/e57da5f8-0294-4480-847a-55776135663f/1/1/LET_ME_KNOW_new_2.jpg?fjkss=exp=2108730589~hmac=bbcadba9692693fbb365910c02fe5b2a302f6715d9bc776a2215d938f31ad94e",
+    "c": "<p>Let Me Know</p>",
+    "col": "#0B080B"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1000,1000,2500,1000/0-0-0/9b84ed18-9285-448c-a040-7dc79f83b66f/1/1/come_a_long_way.jpg?fjkss=exp=2108730589~hmac=c5e72fa7eb7083d0dce29d3bd77f7816104ba95de2c67f25454f28bdd3454afa",
+    "col": "#010A10"
+   }
+  ],
+  "bodyHTML": 371706,
+  "bodyText": " SAZ Welcome Welcome Releases About Us PR PR SAZ The Agency Menu SAZ PR Airborn Gav PR Network Network Store Soundcloud Bandcamp SAZ Project BNT | SAZ SAZTumblr Discography Discography JOURNEY CHANCES DIVE AFTER DARK TRANSITIONS Albums Contact Share if (Math.floor(Math.random() * 100) < 1) { const Http = new XMLHttpRequest(); Http.open(\"GET\", '/track?ref=' + document.referrer); Http.send(); } Copyright \u00a9 All rights reserved. document.createElement( \"picture\" ); var _gaq = _gaq || []; Using Format b, strong { font-weight: bold; } i, em { font-style: italic; } html body #using { height: auto!important; left: auto!important; line-height: 1!important; margin: 0!important; opacity: 0.5!important; padding: 0!important; position: fixed!important; text-indent: 0!important; top: auto!important; visibility: visible!important; width: auto!important; z-index: 2147483647!important; -webkit-transform: none!important; -moz-transform: none!important; -ms-transform: none!important; -o-transform: none!important; transform: none!important; -webkit-font-smoothing: antialiased; color: #555555!important; font-size: 11px; font-family: Arial, sans-serif!important; display:block!important; bottom: 20px!important; right: 20px!important; word-spacing: 0px!important; -webkit-user-select: none; -moz-user-select: none; cursor: default; } html body #using::before, html body #using::after { display: none!important; } #using a { opacity: 1!important; z-index: 2147483647!important; display:inline!important; position:static!important; text-decoration: none!important; border-bottom: 1px #555 solid !important; padding-bottom: 0.1em; color: #555555!important; } #using a:hover { color: #000000 !important; border-bottom-color: #000000 !important; text-decoration: none !important; } /* Cookie Banner Modal Stylesheet */ /* Responsive font sizes for cookie banner elements */ .cookie-banner-details { font-size: 4vw; /* Default for mobile */ } .cookie-banner-details .inline-link-button, .cookie-banner-details button { font-size: 4vw; /* Default for mobile */ } /* Desktop styles (min-width: 768px) */ @media (min-width: 768px) { .cookie-banner-details { font-size: 14px; } .cookie-banner-details .inline-link-button, .cookie-banner-details button:not(.save-button):not(.accept_button):not(.decline_button) { font-size: 14px; } .cookie-banner-details .save-button, .cookie-banner-details .accept_button, .cookie-banner-details .decline_button { font-size: 14px; } } /* Additional cookie banner styling */ .cookie-banner-details .inline-link-button { color: #231f20; background: none; border: none; text-decoration: underline; cursor: pointer; padding: 0; } /* Image Protection */ #image_protection_notice { color: #000; padding: 8px 8px; width: 200px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; margin: 0; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; background: #fff; box-shadow: 0 0 5px #222; -webkit-box-shadow: 0 0 5px #222; -moz-box-shadow: 0 0 5px #222; box-shadow: 0 0 5px #222 } //<![CDATA[ var _4ORMAT_DATA = {\"asset_base_path\":\"https://bucket0.format-assets.com/theme_versions/10962527/assets/\",\"app_domain\":\"www.format.com\",\"page\":{\"id\":3661977,\"hide_using_4ormat\":false,\"type\":\"gallery\",\"layout\":\"vertical\",\"name\":\"AFTER DARK\",\"image_width\":null,\"layout_options\":null,\"category_id\":144199,\"dependencies\":{\"fonts\":{\"google\":{\"url\":\"https://fonts.creatorcdn.com/apis/css2?family=PT Serif\"},\"4ormat\":true}},\"url\":\"/afterdark\",\"access_control\":\"online\",\"title\":{\"id\":33517171,\"type\":\"title\",\"copy\":\"<iframe width=\\\"100%\\\" height=\\\"450\\\" scrolling=\\\"no\\\" frameborder=\\\"no\\\" src=\\\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/280020351&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\\\"></iframe>\",\"copy_alignment\":\"only\",\"alt_text\":\"\",\"image_url\":null},\"assets\":[{\"id\":33890795,\"type\":\"image\",\"copy_alignment\":\"none\",\"copy\":null,\"width\":0,\"copy_width\":"
+ },
+ "/saz-transitions": {
+  "name": "TRANSITIONS",
+  "type": "gallery",
+  "layout": "vertical",
+  "keys": "id,hide_using_4ormat,type,layout,name,image_width,layout_options,category_id,dependencies,url,access_control,title,assets,asset_offset_position,last_asset_position,is_homepage,is_title_page,is_title_page_without_variables,cover_image,sample_page,has_social_integration,has_native_video,content_editable,has_site_popups,show_cookie_banner,content_page_inject_css,content_page_inject_js,canonical_url",
+  "assets": [
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2974,2974,2500,2974/0-0-0/33c11cf6-b314-4267-b5aa-adf381d0428d/1/1/Transitions_front.jpg?fjkss=exp=2108730590~hmac=650d31c3298e355ee4ac073c48a45a7fea340bf3def866ddfb384440f7005923",
+    "col": "#255266"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1080,1080,2500,1080/0-0-0/af5725fe-f17c-4b58-8d9f-f4af6041708b/1/1/IMG_5447-1_JPG.jpg?fjkss=exp=2108730590~hmac=893a588ae75080a496bd94962b09ccd306523f4bd5803b30ede9e612ac8bab4e",
+    "col": "#E2D3CE"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,854,1280,2500,1280/0-0-0/a7814eb4-8fc7-45c0-adca-a17431d95c5a/1/1/IMG_8733_f4gevs.jpg?fjkss=exp=2108730590~hmac=6125373df0e97d9f5a9bb2d3f66e8b1f63ac1c8071c03a5bca4b5dd448fbd8a4",
+    "col": "#373431"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2048,1365,2500,1365/0-0-0/45fa691a-d7e8-4369-bd0e-b85744071eed/1/1/IMG_8779_b88mc2.jpg?fjkss=exp=2108730590~hmac=f41efc0fa23bf8a450e42c0a15eab26153865c51c07388ba857e4a7207841120",
+    "col": "#C0C6D8"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,3643,2429,2500,2429/0-0-0/3dc129a7-3318-4a3e-9f53-199838f6597d/1/1/SAZ_4_of_4_.jpg?fjkss=exp=2108730590~hmac=39c7f4ce67b2ccdeddc90780c3c225dc5f77d782117bfd71cd01421822f4a262",
+    "col": "#070119"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2429,3643,2500,3643/0-0-0/605b5f23-b5be-4544-acd5-805ef0a10bc7/1/1/SAZ_2_of_4_.jpg?fjkss=exp=2108730590~hmac=2e071361404824c77c02055630f65eac1ae9e4bb3f15a4ac061cb0ddf971524f",
+    "col": "#2A0121"
+   },
+   {
+    "t": "v",
+    "src": "vimeo",
+    "u": "https://vimeo.com/210693987",
+    "e": "https://player.vimeo.com/video/210693987?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;api=1"
+   },
+   {
+    "t": "v",
+    "src": "vimeo",
+    "u": "https://vimeo.com/210696487",
+    "e": "https://player.vimeo.com/video/210696487?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;api=1"
+   },
+   {
+    "t": "v",
+    "src": "youtube",
+    "u": "https://youtube.com/watch?v=i805arDFhpA",
+    "e": "https://www.youtube.com/embed/i805arDFhpA?rel=0&amp;wmode=opaque&amp;hd=1&amp;enablejsapi=1"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2429,3643,2500,3643/0-0-0/6c9564be-e8d1-46d7-adfc-5dae5c7fa4ea/1/1/FreshSheets-19.jpg?fjkss=exp=2108730590~hmac=2e071361404824c77c02055630f65eac1ae9e4bb3f15a4ac061cb0ddf971524f",
+    "col": "#EFE9E6"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1600,1200,2500,1200/0-0-0/92786738-06e4-4dd7-b4ea-c437f142cc6a/1/1/WhatsApp_Image_2017-03-03_at_10_10_25_PM.jpg?fjkss=exp=2108730590~hmac=cee224bbf4070c1bd731fc7d3ff875dc65439d0ab8289d8909e53ac6c612f530",
+    "col": "#022133"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1280,1600,2500,1600/0-0-0/62b93c44-cd57-455b-a36d-9a0909f63bab/1/1/IMG_6893_rg7wpa.jpg?fjkss=exp=2108730590~hmac=b2a3bf18a38c0bcc311a8878b8ea89370e597d2cafc1208fdf40e638494b1393",
+    "col": "#282629"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1600,1064,2500,1064/0-0-0/791b63c4-2b9f-49e1-89cf-2023b0abaff8/1/1/IMG_6896_bkjuhw.jpg?fjkss=exp=2108730590~hmac=02a3debb2870a5d8b399ac40b6c43e1ab19a5f3e5d866742f402e02c0ebb08ea",
+    "col": "#211F24"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1600,1064,2500,1064/0-0-0/7e8171e1-f426-4712-a710-a4954adfe32e/1/1/IMG_6894_nwfm4z.jpg?fjkss=exp=2108730590~hmac=02a3debb2870a5d8b399ac40b6c43e1ab19a5f3e5d866742f402e02c0ebb08ea",
+    "col": "#E2E0E3"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1280,1600,2500,1600/0-0-0/cbdf1c82-d9e8-46af-96f6-5f05ddfdbc4b/1/1/IMG_6895_etn4yq.jpg?fjkss=exp=2108730590~hmac=b2a3bf18a38c0bcc311a8878b8ea89370e597d2cafc1208fdf40e638494b1393",
+    "col": "#E4E2E5"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1280,1600,2500,1600/0-0-0/9fb85b00-e730-43da-bbe2-ecb87b47e160/1/1/IMG_6891_loy6di.jpg?fjkss=exp=2108730590~hmac=b2a3bf18a38c0bcc311a8878b8ea89370e597d2cafc1208fdf40e638494b1393",
+    "col": "#0F1017"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,746,1118,2500,1118/0-0-0/80bd86f2-1a57-4b92-8f71-0d5b67f79b97/1/1/IMG_5975_JPG.jpg?fjkss=exp=2108730590~hmac=e6b17e976ca993ac530634a6476300e36ea61f0e9c3a7b9fa285acac92b0335a",
+    "col": "#CACDD6"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/676ca4af-31de-4508-bc65-05c139a3eb0b/1/1/Come_Over_1.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "c": "Come Over Tonight (1)",
+    "col": "#060303"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/947e9648-714e-4cc1-97a7-2f22259ea955/1/1/Come_Over.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "col": "#050102"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/ce442395-34a0-4afd-8e5b-a048f74374b2/1/1/MMIP_1.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "c": "<p>Meet Me In Paris (2)</p>",
+    "col": "#080809"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/090b7427-bc30-4a3a-96c3-3874fc7d6c6a/1/1/Meet_Me_In_Paris.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "col": "#0B0806"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/e446bcae-04ef-41ab-9b05-107b9d180c27/1/1/Call_Back_1.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "c": "<p>Call Back (3)</p>",
+    "col": "#070605"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/587bf837-add3-49c0-91c5-c36feca6f8d4/1/1/Call_Back.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "col": "#060405"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/14b02d25-c789-43b5-8ec3-7e4e66cdeb71/1/1/Walk_Away.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "c": "<p>Walk Away (4)</p>",
+    "col": "#090B0C"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/5475a379-eab3-4a06-8905-66ad2e932524/1/1/Mutual.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "c": "<p>Mutual (5)</p>",
+    "col": "#0A0549"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/ead279a3-992f-4ed0-b065-1656423725e2/1/1/Lonely.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "c": "<p>Lonely&nbsp;(6)</p>",
+    "col": "#0D0610"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/893e777c-44ef-4bef-b14a-b2a81f88b3eb/1/1/A_break.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "c": "<p>A Break (7)</p>",
+    "col": "#EFE45E"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/6ea4e9cc-70d1-4ec5-938d-dcb7256bdce3/1/1/what_have_i_done.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "c": "<p>What Have I Done (8)</p>",
+    "col": "#FCF60F"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/e768b65c-6de6-48c5-8703-5c3e91f7f49d/1/1/futile_a_break.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "c": "<p>Futile/ I Pray (9)</p>",
+    "col": "#F0EE29"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/aa58ab2f-ed63-4ce9-8a79-8a4f2f417f86/1/1/Step_On_It.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "c": "<p>Step On it (10)</p>",
+    "col": "#1CE4E4"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/e98334cb-2bb2-4bca-9018-85f475b6deec/1/1/Sun.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "c": "<p>Sun (11)</p>",
+    "col": "#0F0109"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/e40633cd-234c-4056-b8df-6f334729f55b/1/1/Zabe.jpg?fjkss=exp=2108730590~hmac=e9ceafcf94100a1bd231dd57b25a0555521691e296b4f55b1f9a5b55b26d7342",
+    "c": "<p>Zabe (12)</p>",
+    "col": "#0A0505"
+   }
+  ],
+  "bodyHTML": 483353,
+  "bodyText": " SAZ Welcome Welcome Releases About Us PR PR SAZ The Agency Menu SAZ PR Airborn Gav PR Network Network Store Soundcloud Bandcamp SAZ Project BNT | SAZ SAZTumblr Discography Discography JOURNEY CHANCES DIVE AFTER DARK TRANSITIONS Albums Contact Share if (Math.floor(Math.random() * 100) < 1) { const Http = new XMLHttpRequest(); Http.open(\"GET\", '/track?ref=' + document.referrer); Http.send(); } Copyright \u00a9 All rights reserved. document.createElement( \"picture\" ); var _gaq = _gaq || []; Using Format b, strong { font-weight: bold; } i, em { font-style: italic; } html body #using { height: auto!important; left: auto!important; line-height: 1!important; margin: 0!important; opacity: 0.5!important; padding: 0!important; position: fixed!important; text-indent: 0!important; top: auto!important; visibility: visible!important; width: auto!important; z-index: 2147483647!important; -webkit-transform: none!important; -moz-transform: none!important; -ms-transform: none!important; -o-transform: none!important; transform: none!important; -webkit-font-smoothing: antialiased; color: #555555!important; font-size: 11px; font-family: Arial, sans-serif!important; display:block!important; bottom: 20px!important; right: 20px!important; word-spacing: 0px!important; -webkit-user-select: none; -moz-user-select: none; cursor: default; } html body #using::before, html body #using::after { display: none!important; } #using a { opacity: 1!important; z-index: 2147483647!important; display:inline!important; position:static!important; text-decoration: none!important; border-bottom: 1px #555 solid !important; padding-bottom: 0.1em; color: #555555!important; } #using a:hover { color: #000000 !important; border-bottom-color: #000000 !important; text-decoration: none !important; } /* Cookie Banner Modal Stylesheet */ /* Responsive font sizes for cookie banner elements */ .cookie-banner-details { font-size: 4vw; /* Default for mobile */ } .cookie-banner-details .inline-link-button, .cookie-banner-details button { font-size: 4vw; /* Default for mobile */ } /* Desktop styles (min-width: 768px) */ @media (min-width: 768px) { .cookie-banner-details { font-size: 14px; } .cookie-banner-details .inline-link-button, .cookie-banner-details button:not(.save-button):not(.accept_button):not(.decline_button) { font-size: 14px; } .cookie-banner-details .save-button, .cookie-banner-details .accept_button, .cookie-banner-details .decline_button { font-size: 14px; } } /* Additional cookie banner styling */ .cookie-banner-details .inline-link-button { color: #231f20; background: none; border: none; text-decoration: underline; cursor: pointer; padding: 0; } /* Image Protection */ #image_protection_notice { color: #000; padding: 8px 8px; width: 200px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; margin: 0; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; background: #fff; box-shadow: 0 0 5px #222; -webkit-box-shadow: 0 0 5px #222; -moz-box-shadow: 0 0 5px #222; box-shadow: 0 0 5px #222 } //<![CDATA[ var _4ORMAT_DATA = {\"asset_base_path\":\"https://bucket0.format-assets.com/theme_versions/10962527/assets/\",\"app_domain\":\"www.format.com\",\"page\":{\"id\":3626478,\"hide_using_4ormat\":false,\"type\":\"gallery\",\"layout\":\"vertical\",\"name\":\"TRANSITIONS\",\"image_width\":null,\"layout_options\":null,\"category_id\":144199,\"dependencies\":{\"fonts\":{\"google\":{\"url\":\"https://fonts.creatorcdn.com/apis/css2?family=PT Serif\"},\"4ormat\":true}},\"url\":\"/saz-transitions\",\"access_control\":\"online\",\"title\":{\"id\":33046414,\"type\":\"title\",\"copy\":\"<iframe width=\\\"100%\\\" height=\\\"300\\\" scrolling=\\\"no\\\" frameborder=\\\"no\\\" allow=\\\"autoplay\\\" src=\\\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/296558910&color=%231d91c4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true\\\">\\n</iframe>\",\"copy_alignment\":\"only\",\"alt_text\":\"\",\"image_url\":null},\"assets\":[{\"id\":59568439,\"type\":\"image\",\"copy_alignment\":\"none\",\""
+ },
+ "/albums": {
+  "name": "Albums",
+  "type": "gallery",
+  "layout": "vertical",
+  "keys": "id,hide_using_4ormat,type,layout,name,image_width,layout_options,category_id,dependencies,url,access_control,title,assets,asset_offset_position,last_asset_position,is_homepage,is_title_page,is_title_page_without_variables,cover_image,sample_page,has_social_integration,has_native_video,content_editable,has_site_popups,show_cookie_banner,content_page_inject_css,content_page_inject_js,canonical_url",
+  "assets": [
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,850,786,2500,786/0-0-0/f32659ac-fea6-4842-ae91-d86db86b7f1d/1/1/Take+Time+EP+Cover+2+copy.jpg?fjkss=exp=2108730592~hmac=6d72b2892a604d6982c1c6f9f2bd07e4d63c59f7670d6246e60f7ecc43d707b9",
+    "c": "<p>SAZ - TAKE TIME EP (2012)</p><p>DOWNLOAD LINK:&nbsp;https://drive.google.com/file/d/1hcHDvn81iGR2aK8eCmLbxk3qx5ZCxxdP/view?usp=sharing </p>",
+    "col": "#290D0C"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1000,1000,2500,1000/0-0-0/fb5a104d-bbcf-4a0a-8796-4ce87dcc9e57/1/1/record.jpg?fjkss=exp=2108730592~hmac=013c52e645eff42eae5a930ceeacaa1034fe0d7c8dac3a4cc2fcc1e497956244",
+    "c": "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/4321885&amp;color=666666&amp;auto_play=false&amp;show_artwork=true\"></iframe>",
+    "col": "#F7F7F7"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2974,2974,2500,2974/0-0-0/c5678a0f-25f9-44d5-a744-757b033fe9d8/1/1/saz+dive+1.jpg?fjkss=exp=2108730592~hmac=a9558ff591d08439e16b25eb6b6d21f65af4435a185791d2ed54ed90c03ac609",
+    "c": "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F5360992&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true\"></iframe>",
+    "col": "#F0F0EE"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1600,1600,2500,1600/0-0-0/4f426e1a-ecf0-424f-bf33-7047e4247c55/1/1/vitaminsbig.jpg?fjkss=exp=2108730592~hmac=036e5d22ee46c70ed4614c399798795101a2c0adb04c74610e8a7d9cf2b79781",
+    "c": "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/9903314&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe>",
+    "col": "#283926"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/9c50a1f0-cf1b-4a3d-982e-1d0b492bc661/1/1/journey_cover.jpg?fjkss=exp=2108730592~hmac=2e664a39b3b9e44ef17ef17c852bdcc0b85bf4e420583cd0f320d4865140af28",
+    "c": "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/68490502&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe>",
+    "col": "#102B2A"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2000,2000,2500,2000/0-0-0/a9908662-a2ca-496b-a89e-bb53a2755547/1/1/sazchances_cover2000X2000.jpg?fjkss=exp=2108730592~hmac=61230ced6aca7839fc17c52a6b9b761c8d1bbcfbea100b591269a0f92989bbcd",
+    "c": "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/148518056&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe>\n",
+    "col": "#0E0C08"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,1500,1500,2500,1500/0-0-0/ff1c06e0-23ce-45e6-a497-51a1d56c3010/1/1/SAZ_After_Dark_with_textlogo2.jpg?fjkss=exp=2108730592~hmac=2e664a39b3b9e44ef17ef17c852bdcc0b85bf4e420583cd0f320d4865140af28",
+    "c": "<iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/280020351&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe>\n",
+    "col": "#FCFCFC"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2974,2974,2500,2974/0-0-0/33c11cf6-b314-4267-b5aa-adf381d0428d/1/1/Transitions_front.jpg?fjkss=exp=2108730592~hmac=a9558ff591d08439e16b25eb6b6d21f65af4435a185791d2ed54ed90c03ac609",
+    "c": "<div style=\"max-width:100%;\"><div style=\"position:relative;padding-bottom:calc(56.25% + 52px);height: 0;\"><iframe style=\"position:absolute;top:0;left:0;\" width=\"100%\" height=\"100%\" src=\"https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fi%2F1395498877&theme=light\" frameborder=\"0\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox\" allow=\"clipboard-read; clipboard-write\"></iframe></div></div>",
+    "col": "#255266"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2974,2974,2500,2974/0-0-0/5d7bdc8b-ba49-4c6e-bc6b-3283f5735c27/1/1/22_Reasons_to_stay.jpg?fjkss=exp=2108730592~hmac=a9558ff591d08439e16b25eb6b6d21f65af4435a185791d2ed54ed90c03ac609",
+    "c": "<div style=\"max-width:100%;\"><div style=\"position:relative;padding-bottom:calc(56.25% + 52px);height: 0;\"><iframe style=\"position:absolute;top:0;left:0;\" width=\"100%\" height=\"100%\" src=\"https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fi%2F1454892253&theme=light\" frameborder=\"0\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox\" allow=\"clipboard-read; clipboard-write\"></iframe></div></div>",
+    "col": "#323131"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2974,2974,2500,2974/0-0-0/4ebff0d4-4cce-4cb0-b767-dd5861e11a92/1/1/3000artwork.jpg?fjkss=exp=2108730592~hmac=a9558ff591d08439e16b25eb6b6d21f65af4435a185791d2ed54ed90c03ac609",
+    "c": "<div style=\"max-width:100%;\"><div style=\"position:relative;padding-bottom:calc(56.25% + 52px);height: 0;\"><iframe style=\"position:absolute;top:0;left:0;\" width=\"100%\" height=\"100%\" src=\"https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fi%2F1441828348&theme=light\" frameborder=\"0\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox\" allow=\"clipboard-read; clipboard-write\"></iframe></div></div>",
+    "col": "#A67373"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2974,2974,2500,2974/0-0-0/e43b98b8-b0ea-4ac1-a37e-60e3f91a01e1/1/1/great+escape+ep.jpg?fjkss=exp=2108730592~hmac=a9558ff591d08439e16b25eb6b6d21f65af4435a185791d2ed54ed90c03ac609",
+    "c": "<div style=\"max-width:100%;\"><div style=\"position:relative;padding-bottom:calc(56.25% + 52px);height: 0;\"><iframe style=\"position:absolute;top:0;left:0;\" width=\"100%\" height=\"100%\" src=\"https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fi%2F1448918188&theme=light\" frameborder=\"0\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox\" allow=\"clipboard-read; clipboard-write\"></iframe></div></div>",
+    "col": "#F3F3F3"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2974,2974,2500,2974/0-0-0/03d3db2d-37cd-412b-ba7d-7f70938c790a/1/1/final_artwork-saz_comic.jpg?fjkss=exp=2108730592~hmac=a9558ff591d08439e16b25eb6b6d21f65af4435a185791d2ed54ed90c03ac609",
+    "c": "<div style=\"max-width:100%;\"><div style=\"position:relative;padding-bottom:calc(56.25% + 52px);height: 0;\"><iframe style=\"position:absolute;top:0;left:0;\" width=\"100%\" height=\"100%\" src=\"https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fi%2F1520090236&theme=light\" frameborder=\"0\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox\" allow=\"clipboard-read; clipboard-write\"></iframe></div></div>",
+    "col": "#1C1411"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2974,2974,2500,2974/0-0-0/811446e9-a423-4a62-8c66-76a48d0a764f/1/1/1.jpg?fjkss=exp=2108730592~hmac=a9558ff591d08439e16b25eb6b6d21f65af4435a185791d2ed54ed90c03ac609",
+    "c": "<div style=\"max-width:100%;\"><div style=\"position:relative;padding-bottom:calc(56.25% + 52px);height: 0;\"><iframe style=\"position:absolute;top:0;left:0;\" width=\"100%\" height=\"100%\" src=\"https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fi%2F1600364288&theme=light\" frameborder=\"0\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox\" allow=\"clipboard-read; clipboard-write\"></iframe></div></div>",
+    "col": "#8C0C0C"
+   },
+   {
+    "t": "i",
+    "u": "https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,2974,2974,2500,2974/0-0-0/3f954bab-e780-48ba-b3bb-7df0eb165249/1/1/changing+tides+2.jpg?fjkss=exp=2108730592~hmac=a9558ff591d08439e16b25eb6b6d21f65af4435a185791d2ed54ed90c03ac609",
+    "c": "<div style=\"max-width:100%;\"><div style=\"position:relative;padding-bottom:calc(56.25% + 52px);height: 0;\"><iframe style=\"position:absolute;top:0;left:0;\" width=\"100%\" height=\"100%\" src=\"https://odesli.co/embed/?url=https%3A%2F%2Falbum.link%2Fi%2F1617331653&theme=light\" frameborder=\"0\" allowfullscreen sandbox=\"allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox\" allow=\"clipboard-read; clipboard-write\"></iframe></div></div>",
+    "col": "#A6C0D9"
+   }
+  ],
+  "bodyHTML": 258370,
+  "bodyText": " SAZ Welcome Welcome Releases About Us PR PR SAZ The Agency Menu SAZ PR Airborn Gav PR Network Network Store Soundcloud Bandcamp SAZ Project BNT | SAZ SAZTumblr Discography Discography JOURNEY CHANCES DIVE AFTER DARK TRANSITIONS Albums Contact Share if (Math.floor(Math.random() * 100) < 1) { const Http = new XMLHttpRequest(); Http.open(\"GET\", '/track?ref=' + document.referrer); Http.send(); } Copyright \u00a9 All rights reserved. document.createElement( \"picture\" ); var _gaq = _gaq || []; Using Format b, strong { font-weight: bold; } i, em { font-style: italic; } html body #using { height: auto!important; left: auto!important; line-height: 1!important; margin: 0!important; opacity: 0.5!important; padding: 0!important; position: fixed!important; text-indent: 0!important; top: auto!important; visibility: visible!important; width: auto!important; z-index: 2147483647!important; -webkit-transform: none!important; -moz-transform: none!important; -ms-transform: none!important; -o-transform: none!important; transform: none!important; -webkit-font-smoothing: antialiased; color: #555555!important; font-size: 11px; font-family: Arial, sans-serif!important; display:block!important; bottom: 20px!important; right: 20px!important; word-spacing: 0px!important; -webkit-user-select: none; -moz-user-select: none; cursor: default; } html body #using::before, html body #using::after { display: none!important; } #using a { opacity: 1!important; z-index: 2147483647!important; display:inline!important; position:static!important; text-decoration: none!important; border-bottom: 1px #555 solid !important; padding-bottom: 0.1em; color: #555555!important; } #using a:hover { color: #000000 !important; border-bottom-color: #000000 !important; text-decoration: none !important; } /* Cookie Banner Modal Stylesheet */ /* Responsive font sizes for cookie banner elements */ .cookie-banner-details { font-size: 4vw; /* Default for mobile */ } .cookie-banner-details .inline-link-button, .cookie-banner-details button { font-size: 4vw; /* Default for mobile */ } /* Desktop styles (min-width: 768px) */ @media (min-width: 768px) { .cookie-banner-details { font-size: 14px; } .cookie-banner-details .inline-link-button, .cookie-banner-details button:not(.save-button):not(.accept_button):not(.decline_button) { font-size: 14px; } .cookie-banner-details .save-button, .cookie-banner-details .accept_button, .cookie-banner-details .decline_button { font-size: 14px; } } /* Additional cookie banner styling */ .cookie-banner-details .inline-link-button { color: #231f20; background: none; border: none; text-decoration: underline; cursor: pointer; padding: 0; } /* Image Protection */ #image_protection_notice { color: #000; padding: 8px 8px; width: 200px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; margin: 0; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; background: #fff; box-shadow: 0 0 5px #222; -webkit-box-shadow: 0 0 5px #222; -moz-box-shadow: 0 0 5px #222; box-shadow: 0 0 5px #222 } //<![CDATA[ var _4ORMAT_DATA = {\"asset_base_path\":\"https://bucket0.format-assets.com/theme_versions/10962527/assets/\",\"app_domain\":\"www.format.com\",\"page\":{\"id\":575651,\"hide_using_4ormat\":false,\"type\":\"gallery\",\"layout\":\"vertical\",\"name\":\"Albums\",\"image_width\":null,\"layout_options\":null,\"category_id\":144199,\"dependencies\":{\"fonts\":{\"google\":{\"url\":\"https://fonts.creatorcdn.com/apis/css2?family=PT Serif\"},\"4ormat\":true}},\"url\":\"/albums\",\"access_control\":\"online\",\"title\":null,\"assets\":[{\"id\":7358667,\"type\":\"image\",\"copy_alignment\":\"only\",\"copy\":\"<p>SAZ - TAKE TIME EP (2012)</p><p>DOWNLOAD LINK:&nbsp;https://drive.google.com/file/d/1hcHDvn81iGR2aK8eCmLbxk3qx5ZCxxdP/view?usp=sharing </p>\",\"width\":0,\"copy_width\":0,\"scaled_image_width\":0,\"tag\":null,\"alt_text\":\"SAZ - Take Time (2012)\",\"filename\":null,\"vfs_file_id\":3246625,\"dominant_color\":\"#290D0C\",\"image_url_2500x0\":\"https://format.creatorcdn.com/38aebfb0-d16a-48c1-b2e9-ab15dfb35811/0/0/0/0,0,850,786,2500,786/0-0-0/f326"
+ },
+ "/submission": {
+  "name": "Contact",
+  "type": "content",
+  "layout": null,
+  "keys": "id,hide_using_4ormat,type,layout,name,image_width,layout_options,category_id,dependencies,url,access_control,is_homepage,is_title_page,is_title_page_without_variables,cover_image,sample_page,has_social_integration,content_modules,needs_wrap,content_editable,has_site_popups,show_cookie_banner,content_page_inject_css,content_page_inject_js,canonical_url",
+  "assets": [],
+  "bodyHTML": 32570,
+  "bodyText": " SAZ Welcome Welcome Releases About Us PR PR SAZ The Agency Menu SAZ PR Airborn Gav PR Network Network Store Soundcloud Bandcamp SAZ Project BNT | SAZ SAZTumblr Discography Discography JOURNEY CHANCES DIVE AFTER DARK TRANSITIONS Albums Contact Share Contact Us For enquiries, submissions, and general feedback, please contact us here! Name Email Message Send Message if (typeof(_4ORMAT) === \"undefined\") { var _4ORMAT = {}; } if (typeof(_4ORMAT.contact_forms) === \"undefined\") { _4ORMAT.contact_forms = []; } _4ORMAT.contact_forms.push('contact_form_1'); Copyright \u00a9 All rights reserved. document.createElement( \"picture\" ); var _gaq = _gaq || []; Using Format b, strong { font-weight: bold; } i, em { font-style: italic; } html body #using { height: auto!important; left: auto!important; line-height: 1!important; margin: 0!important; opacity: 0.5!important; padding: 0!important; position: fixed!important; text-indent: 0!important; top: auto!important; visibility: visible!important; width: auto!important; z-index: 2147483647!important; -webkit-transform: none!important; -moz-transform: none!important; -ms-transform: none!important; -o-transform: none!important; transform: none!important; -webkit-font-smoothing: antialiased; color: #555555!important; font-size: 11px; font-family: Arial, sans-serif!important; display:block!important; bottom: 20px!important; right: 20px!important; word-spacing: 0px!important; -webkit-user-select: none; -moz-user-select: none; cursor: default; } html body #using::before, html body #using::after { display: none!important; } #using a { opacity: 1!important; z-index: 2147483647!important; display:inline!important; position:static!important; text-decoration: none!important; border-bottom: 1px #555 solid !important; padding-bottom: 0.1em; color: #555555!important; } #using a:hover { color: #000000 !important; border-bottom-color: #000000 !important; text-decoration: none !important; } /* Cookie Banner Modal Stylesheet */ /* Responsive font sizes for cookie banner elements */ .cookie-banner-details { font-size: 4vw; /* Default for mobile */ } .cookie-banner-details .inline-link-button, .cookie-banner-details button { font-size: 4vw; /* Default for mobile */ } /* Desktop styles (min-width: 768px) */ @media (min-width: 768px) { .cookie-banner-details { font-size: 14px; } .cookie-banner-details .inline-link-button, .cookie-banner-details button:not(.save-button):not(.accept_button):not(.decline_button) { font-size: 14px; } .cookie-banner-details .save-button, .cookie-banner-details .accept_button, .cookie-banner-details .decline_button { font-size: 14px; } } /* Additional cookie banner styling */ .cookie-banner-details .inline-link-button { color: #231f20; background: none; border: none; text-decoration: underline; cursor: pointer; padding: 0; } /* Image Protection */ #image_protection_notice { color: #000; padding: 8px 8px; width: 200px; font-size: 11px; font-family: Arial, Helvetica, sans-serif; margin: 0; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; background: #fff; box-shadow: 0 0 5px #222; -webkit-box-shadow: 0 0 5px #222; -moz-box-shadow: 0 0 5px #222; box-shadow: 0 0 5px #222 } //<![CDATA[ var _4ORMAT_DATA = {\"asset_base_path\":\"https://bucket0.format-assets.com/theme_versions/10962527/assets/\",\"app_domain\":\"www.format.com\",\"page\":{\"id\":644436,\"hide_using_4ormat\":false,\"type\":\"content\",\"layout\":null,\"name\":\"Contact\",\"image_width\":null,\"layout_options\":null,\"category_id\":null,\"dependencies\":{\"fonts\":{\"google\":{\"url\":\"https://fonts.creatorcdn.com/apis/css2?family=PT Serif\"},\"4ormat\":true},\"javascripts\":[\"_common/contact_form.js\",\"_common/colour_adjustments.js\"],\"stylesheets\":[\"_common/module_base.css\",\"stackable/headline_01/stylesheets/style.css\",\"_common/contact_form.css\",\"_common/modal_message.css\"]},\"url\":\"/submission\",\"access_control\":\"online\",\"is_homepage\":false,\"is_title_page\":false,\"is_title_page_without_variables\":false,\"cover_image\":null,\"sample_page\":false,\"has_social_integr"
+ }
+}
