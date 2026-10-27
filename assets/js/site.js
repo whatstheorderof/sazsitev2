@@ -114,3 +114,16 @@
     $('.form-note', form).textContent = 'Your email app should open with the message ready to send.';
   });
 })();
+
+// instrumentals search
+(() => {
+  const q = document.getElementById('beat-q');
+  if (!q) return;
+  const rows = [...document.querySelectorAll('.beat')], empty = document.querySelector('.beats-empty');
+  q.addEventListener('input', () => {
+    const terms = q.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
+    let shown = 0;
+    rows.forEach(r => { const ok = terms.every(t => r.dataset.search.includes(t)); r.hidden = !ok; shown += ok; });
+    empty.hidden = shown > 0;
+  });
+})();
