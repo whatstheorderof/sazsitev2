@@ -68,6 +68,7 @@
   function render(i) {
     idx = i; const it = items[i];
     dlg.classList.toggle('is-video', it.k !== 'img');
+    dlg.classList.toggle('is-bare', it.k === 'img' && !(it.title || it.credits || (it.embeds || []).length));
     if (it.k === 'img') {
       dlg.style.setProperty('--c', it.color || '#000');
       art.style.setProperty('--c', it.color || '#000');
@@ -115,15 +116,44 @@
   });
 })();
 
-// instrumentals search
+// store: search + in-page BeatStars player
 (() => {
   const q = document.getElementById('beat-q');
   if (!q) return;
-  const rows = [...document.querySelectorAll('.beat')], empty = document.querySelector('.beats-empty');
+  const rows = [...document.querySelectorAll('.beat')], empty = document.querySelector('.beats-empty'), count = document.getElementById('beat-count');
   q.addEventListener('input', () => {
     const terms = q.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
     let shown = 0;
     rows.forEach(r => { const ok = terms.every(t => r.dataset.search.includes(t)); r.hidden = !ok; shown += ok; });
-    empty.hidden = shown > 0;
+    empty.hidden = shown > 0; count.textContent = shown;
+  });
+  const bar = document.getElementById('beat-player'), frame = bar.querySelector('iframe');
+  document.addEventListener('click', e => {
+    const b = e.target.closest('.beat-play');
+    if (b) {
+      document.querySelectorAll('.beat.is-playing').forEach(r => r.classList.remove('is-playing'));
+      b.closest('.beat').classList.add('is-playing');
+      frame.src = `https://www.beatstars.com/embed/track?id=${b.dataset.id}`;
+      frame.title = `${b.dataset.title} on BeatStars`;
+      bar.hidden = false; document.body.classList.add('has-player');
+    }
+    if (e.target.closest('.beat-player-close')) {
+      frame.src = 'about:blank'; bar.hidden = true; document.body.classList.remove('has-player');
+      document.querySelectorAll('.beat.is-playing').forEach(r => r.classList.remove('is-playing'));
+    }
+  });
+})();
+
+// homepage films selector
+(() => {
+  const film = document.querySelector('[data-film]');
+  if (!film) return;
+  const stage = film.querySelector('.film-stage');
+  film.addEventListener('click', e => {
+    const b = e.target.closest('.film-pick');
+    if (!b) return;
+    film.querySelectorAll('.film-pick').forEach(x => x.setAttribute('aria-pressed', x === b));
+    stage.innerHTML = `<div class="video"><iframe src="https://www.youtube-nocookie.com/embed/${b.dataset.yt}?autoplay=1&rel=0" title="${b.querySelector('strong').textContent.replace(/"/g, '&quot;')}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe></div>`;
+    if (matchMedia('(max-width: 860px)').matches) stage.scrollIntoView({ behavior: 'smooth', block: 'center' });
   });
 })();
