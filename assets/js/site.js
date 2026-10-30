@@ -157,3 +157,22 @@
     if (matchMedia('(max-width: 860px)').matches) stage.scrollIntoView({ behavior: 'smooth', block: 'center' });
   });
 })();
+
+
+// light / dark theme
+(() => {
+  const btn = document.querySelector('.theme-btn'), meta = document.querySelector('meta[name="theme-color"]');
+  if (!btn) return;
+  const sync = () => {
+    const light = document.documentElement.dataset.theme === 'light';
+    btn.setAttribute('aria-label', light ? 'Switch to dark theme' : 'Switch to light theme');
+    if (meta) meta.content = light ? '#eef1f5' : '#0f1626';
+  };
+  sync();
+  btn.addEventListener('click', () => {
+    const next = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
+    const apply = () => { document.documentElement.dataset.theme = next; sync(); };
+    (document.startViewTransition && !matchMedia('(prefers-reduced-motion: reduce)').matches) ? document.startViewTransition(apply) : apply();
+    try { localStorage.setItem('saz-theme', next); } catch (e) {}
+  });
+})();
