@@ -176,3 +176,22 @@
     try { localStorage.setItem('saz-theme', next); } catch (e) {}
   });
 })();
+
+
+// photo reveals on scroll
+(() => {
+  if (matchMedia('(prefers-reduced-motion: reduce)').matches || !('IntersectionObserver' in window)) return;
+  const sel = '.tile, .shelf-item, .album, .album-hero-art, .latest-art, .video-grid figure, .story-figure, .film-stage, .film-pick, .people figure, .duo figure, .art-strip img, .players .player, .licence';
+  const els = [...document.querySelectorAll(sel)].filter(el => !el.closest('.hero, .viewer, .menu'));
+  els.forEach(el => { el.classList.add('rv'); if (el.matches('.story-figure, .album-hero-art, .latest-art')) el.classList.add('rv-img'); });
+  const io = new IntersectionObserver(entries => {
+    let n = 0;
+    entries.filter(e => e.isIntersecting).forEach(e => {
+      e.target.style.setProperty('--rv-d', `${Math.min(n++, 8) * 70}ms`);
+      e.target.classList.add('in'); io.unobserve(e.target);
+    });
+  }, { rootMargin: '0px 0px -8% 0px', threshold: .08 });
+  els.forEach(el => io.observe(el));
+  // filtered/hidden tiles must stay visible when shown again
+  document.addEventListener('click', e => { if (e.target.closest('.chip, .film-pick')) els.forEach(el => el.classList.add('in')); });
+})();
