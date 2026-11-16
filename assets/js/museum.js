@@ -82,7 +82,7 @@ const initMuseum = () => {
     // columns of pictures: two small ones stacked, or one big one
     const cols = []; let pend = null;
     (r.items || []).forEach(it => {
-      if (it.type !== 'img' || it.big) { pend = null; cols.push({ items: [it], w: it.big ? 2.9 : it.type === 'logo' ? 3.6 : 2.0 }); }
+      if (it.type !== 'img' || it.big) { pend = null; cols.push({ items: [it], w: it.big ? 2.5 : it.type === 'logo' ? 3.6 : 2.0 }); }
       else if (pend) { pend.items.push(it); pend = null; }
       else { pend = { items: [it], w: 1.75 }; cols.push(pend); }
     });
