@@ -1,4 +1,4 @@
-/* SAZ museum: a walkable pixel-art gallery with a cinema. three.js r128 (global THREE). */
+/* SAZ museum: a walkable gallery with a cinema. three.js r128 (global THREE). */
 const initMuseum = () => {
   const wrap = document.getElementById('museum');
   if (!wrap) return;
@@ -8,61 +8,56 @@ const initMuseum = () => {
   const sitBtn = $('.m-sit'), cin = $('.m-cinema');
 
   let renderer;
-  try { renderer = new THREE.WebGLRenderer({ canvas, antialias: false }); } catch (e) {}
+  try { renderer = new THREE.WebGLRenderer({ canvas, antialias: true }); } catch (e) {}
   if (!renderer) { startEl.querySelector('.m-start-inner').innerHTML = '<h1 class="h-xl">museum</h1><p class="lede">Your browser could not start 3D graphics. You can see the same work in the <a href="gallery.html">gallery</a> and on the <a href="releases.html">releases</a> page.</p>'; return; }
-  renderer.setPixelRatio(1);
+  renderer.setPixelRatio(Math.min(devicePixelRatio || 1, 2));
   renderer.outputEncoding = THREE.sRGBEncoding;
 
   const W = 10, H = 4.4, DOOR = 3, DOOR_H = 3, EYE = 1.65, SEAT_EYE = 1.2, FOV = 68;
-  const BG = 0x12062b;
+  const BG = 0x0b101c;
   const scene = new THREE.Scene();
   scene.background = new THREE.Color(BG);
   scene.fog = new THREE.Fog(BG, 22, 60);
   const camera = new THREE.PerspectiveCamera(FOV, 1, 0.1, 120);
   camera.rotation.order = 'YXZ';
 
-  // ---------- pixel texture helpers
-  const PX = '"Silkscreen", "Courier New", monospace';
-  function pix(t) { t.magFilter = THREE.NearestFilter; t.minFilter = THREE.NearestFilter; t.generateMipmaps = false; t.encoding = THREE.sRGBEncoding; return t; }
-  // crisp: snap text edges to hard pixels; under: paint a background beneath afterwards
-  function cv(w, h, draw, crisp, under) {
-    const c = document.createElement('canvas'); c.width = w; c.height = h;
-    const x = c.getContext('2d'); x.imageSmoothingEnabled = false; draw(x, w, h);
-    if (crisp) { const d = x.getImageData(0, 0, w, h), a = d.data; for (let i = 3; i < a.length; i += 4) a[i] = a[i] > 110 ? 255 : 0; x.putImageData(d, 0, 0); }
-    if (under) { x.setTransform(1, 0, 0, 1, 0, 0); x.globalCompositeOperation = 'destination-over'; under(x, w, h); }
-    return c;
-  }
-  const tex = (w, h, draw, crisp, under) => pix(new THREE.CanvasTexture(cv(w, h, draw, crisp, under)));
-  const soft = t => { t.minFilter = THREE.LinearFilter; return t; };
+  // ---------- texture helpers
+  const DISPLAY = '"Big Shoulders Display", "Arial Narrow", sans-serif', TEXT = 'Newsreader, Georgia, serif';
+  const MAXA = Math.min(8, renderer.capabilities.getMaxAnisotropy());
+  function pix(t) { t.encoding = THREE.sRGBEncoding; t.anisotropy = MAXA; return t; }
+  function cv(w, h, draw) { const c = document.createElement('canvas'); c.width = w; c.height = h; draw(c.getContext('2d'), w, h); return c; }
+  const tex = (w, h, draw) => pix(new THREE.CanvasTexture(cv(w, h, draw)));
   function lines(ctx, text, maxW) {
     const out = []; let line = '';
     for (const w of text.split(' ')) { const t = line ? line + ' ' + w : w; if (ctx.measureText(t).width > maxW && line) { out.push(line); line = w; } else line = t; }
     if (line) out.push(line); return out;
   }
   const shade = (hex, k) => { const c = new THREE.Color(hex).multiplyScalar(k); c.r = Math.min(1, c.r); c.g = Math.min(1, c.g); c.b = Math.min(1, c.b); return '#' + c.getHexString(); };
-  const signTex = (name, sub, colr) => soft(tex(176, 44, (c, w, h) => {
+  const signTex = (name, sub, colr) => tex(1024, 256, (c, w, h) => {
     c.textAlign = 'center'; c.textBaseline = 'middle';
-    c.fillStyle = colr; c.font = `700 16px ${PX}`; c.fillText(name.toUpperCase(), w / 2, 15, w - 6);
-    c.fillStyle = '#ffffff'; c.font = `400 8px ${PX}`; c.fillText(sub.toUpperCase(), w / 2, 35, w - 6);
-  }, true));
-  const plaqueTex = (title, colr) => (tex(64, 64, (c, w, h) => {
-    c.fillStyle = '#1a0b33'; c.textBaseline = 'top'; c.font = `700 8px ${PX}`;
-    lines(c, title.toUpperCase(), w - 8).slice(0, 4).forEach((l, i) => c.fillText(l, 5, 9 + i * 10));
-    c.textAlign = 'center'; c.fillText('READ >', w / 2, h - 11);
-  }, true, (c, w, h) => { c.fillStyle = colr; c.fillRect(0, 0, w, 4); c.fillRect(0, h - 14, w, 14); c.fillStyle = '#fff8e7'; c.fillRect(0, 0, w, h); }));
-  const logoTex = () => tex(128, 50, (c, w, h) => {
+    c.fillStyle = colr; c.font = `900 ${h * 0.5}px ${DISPLAY}`; c.fillText(name.toLowerCase(), w / 2, h * 0.38, w * 0.94);
+    c.fillStyle = '#e9edf3'; c.font = `400 ${h * 0.2}px ${TEXT}`; c.fillText(sub, w / 2, h * 0.82);
+  });
+  const plaqueTex = (title, colr, body) => tex(1024, 1024, (c, w, h) => {
+    c.fillStyle = '#f4f1ea'; c.fillRect(0, 0, w, h);
+    c.fillStyle = '#121a2b'; c.textBaseline = 'top';
+    c.font = `900 88px ${DISPLAY}`; c.fillText(title.toLowerCase(), 60, 52, w - 120);
+    c.fillStyle = colr; c.fillRect(60, 158, 120, 8);
+    c.fillStyle = '#121a2b'; c.font = `400 41px ${TEXT}`;
+    const ls = lines(c, body || '', w - 120), max = 13;
+    ls.slice(0, max).forEach((l, i) => c.fillText(i === max - 1 && ls.length > max ? l.replace(/\s+\S*$/, '') + '…' : l, 60, 196 + i * 58));
+    c.fillStyle = '#5b6474'; c.font = `italic 400 34px ${TEXT}`; c.fillText('Click to read', 60, h - 78);
+  });
+  const logoTex = () => tex(1024, 400, (c, w, h) => {
     const svg = document.querySelector('.mark svg'), p = svg && svg.querySelector('path');
-    c.fillStyle = '#ffffff';
+    c.fillStyle = '#e9edf3';
     if (p) { const vb = svg.viewBox.baseVal, s = Math.min(w * 0.94 / vb.width, h * 0.94 / vb.height); c.translate((w - vb.width * s) / 2, (h - vb.height * s) / 2); c.scale(s, s); c.fill(new Path2D(p.getAttribute('d')), 'evenodd'); }
-  }, true);
-  const floorTex = (a, b) => tex(2, 2, c => { c.fillStyle = a; c.fillRect(0, 0, 2, 2); c.fillStyle = b; c.fillRect(0, 0, 1, 1); c.fillRect(1, 1, 1, 1); });
-  const wallCanvas = (colr, trim) => cv(32, 32, (c, w, h) => {
+  });
+  const floorTex = (a, b) => tex(256, 256, c => { c.fillStyle = a; c.fillRect(0, 0, 256, 256); c.fillStyle = b; c.fillRect(0, 0, 128, 128); c.fillRect(128, 128, 128, 128); });
+  const wallCanvas = (colr, trim) => cv(64, 512, (c, w, h) => {
     c.fillStyle = colr; c.fillRect(0, 0, w, h);
-    let s = 7; const rnd = () => (s = (s * 16807) % 2147483647) / 2147483647;
-    for (let i = 0; i < 34; i++) { c.fillStyle = shade(colr, rnd() > 0.5 ? 1.07 : 0.92); c.fillRect(Math.floor(rnd() * 16) * 2, 3 + Math.floor(rnd() * 12) * 2, 2, 2); }
-    c.fillStyle = trim; c.fillRect(0, 0, w, 2);
-    c.fillStyle = shade(colr, 0.55); c.fillRect(0, h - 3, w, 3);
-    c.fillStyle = shade(colr, 0.75); c.fillRect(0, h - 4, w, 1);
+    c.fillStyle = trim; c.fillRect(0, 0, w, 7);
+    c.fillStyle = shade(colr, 0.55); c.fillRect(0, h - 26, w, 26);
   });
 
   // ---------- build rooms
@@ -71,7 +66,7 @@ const initMuseum = () => {
   const pickables = [], rooms = [], dividers = [], blocks = [];
   function box(mat, w, h, d, x, y, z) { const m = new THREE.Mesh(boxGeo, mat); m.scale.set(w, h, d); m.position.set(x, y, z); scene.add(m); return m; }
   function plane(mat, w, h, x, y, z, ry) { const m = new THREE.Mesh(planeGeo, mat); m.scale.set(w, h, 1); m.position.set(x, y, z); if (ry) m.rotation.y = ry; scene.add(m); return m; }
-  const lampMat = basic(0xfffbe0);
+  const lampMat = basic(0xfff4e0);
   let cinema = null;
 
   let z = 0;
@@ -107,7 +102,7 @@ const initMuseum = () => {
       dividers.push(z1);
     }
     const room = { ...r, z0, z1, i: ri, arts: [], loaded: false };
-    const frameMat = basic(r.trim), backMat = basic(0x12062b);
+    const frameMat = basic(0x0a0d14), backMat = basic(0x0a0d14);
     cols.forEach(c => c.items.forEach((it, k) => {
       const pair = c.items.length === 2, hgt = it.big ? 2.3 : it.type === 'text' ? 1.4 : pair ? 1.25 : 1.4;
       const y = it.big ? 2.0 : pair ? (k ? 1.3 : 2.85) : 1.85;
@@ -121,20 +116,21 @@ const initMuseum = () => {
       scene.add(g);
       if (it.type === 'logo') { fr.visible = bk.visible = false; mat.map = logoTex(); mat.transparent = true; mat.needsUpdate = true; return; }
       pic.userData.item = it; pickables.push(pic);
-      if (it.type === 'text') { mat.map = plaqueTex(it.title, r.trim); mat.needsUpdate = true; }
+      if (it.type === 'text') { mat.map = plaqueTex(it.title, r.trim, it.sub); mat.needsUpdate = true; }
       else room.arts.push({ it, mat, setSize });
     }));
     if (isCin) {
       const sw = 7.6, sh = sw * 9 / 16, sy = 2.3;
       box(basic(r.trim), sw + 0.3, sh + 0.3, 0.1, 0, sy, z1 + 0.06);
-      const st = tex(160, 90, (c, w, h) => {
-        c.fillStyle = '#12062b'; c.textAlign = 'center'; c.textBaseline = 'middle';
-        c.font = `700 24px ${PX}`; c.fillText('SAZ CINEMA', w / 2, 34, w - 10);
-        c.font = `400 8px ${PX}`; c.fillText('TAKE A SEAT TO WATCH', w / 2, 62);
-      }, true, (c, w, h) => { c.fillStyle = '#fff8e7'; c.fillRect(0, 0, w, h); });
+      const st = tex(1280, 720, (c, w, h) => {
+        c.fillStyle = '#f4f1ea'; c.fillRect(0, 0, w, h);
+        c.fillStyle = '#121a2b'; c.textAlign = 'center'; c.textBaseline = 'middle';
+        c.font = `900 210px ${DISPLAY}`; c.fillText('saz cinema', w / 2, 300, w - 80);
+        c.font = `400 52px ${TEXT}`; c.fillText('Take a seat to watch', w / 2, 480);
+      });
       const screen = plane(new THREE.MeshBasicMaterial({ map: st }), sw, sh, 0, sy, z1 + 0.12);
       const sit = { type: 'seat', title: 'Cinema' }; screen.userData.item = sit; pickables.push(screen);
-      const seatMat = basic(0xff2e63), seatBack = basic(0xc2124a), arm = basic(0x2b0f4f);
+      const seatMat = basic(0x6e0f22), seatBack = basic(0x4f0a18), arm = basic(0x1c1426);
       const rowsZ = [z1 + 6.6, z1 + 8.3, z1 + 10];
       rowsZ.forEach(rz => { for (let i = -2; i <= 2; i++) {
         const x = i * 1.15;
@@ -150,20 +146,11 @@ const initMuseum = () => {
   });
   const zEnd = z;
 
-  // ---------- lazy pixelated pictures
+  // ---------- lazy pictures
+  const loader = new THREE.TextureLoader();
   function loadRoom(room) {
     if (!room || room.loaded) return; room.loaded = true;
-    room.arts.forEach(a => {
-      const im = new Image();
-      im.onload = () => {
-        const max = a.it.big ? 104 : 60, k = max / Math.max(im.width, im.height), w = Math.max(1, Math.round(im.width * k)), h = Math.max(1, Math.round(im.height * k));
-        const c = document.createElement('canvas'); c.width = w; c.height = h; const x = c.getContext('2d');
-        try { x.filter = 'saturate(1.45) contrast(1.08)'; } catch (e) {}
-        x.drawImage(im, 0, 0, w, h);
-        a.mat.map = pix(new THREE.CanvasTexture(c)); a.mat.color.set(0xffffff); a.mat.needsUpdate = true; a.setSize(im.width / im.height);
-      };
-      im.src = a.it.src;
-    });
+    room.arts.forEach(a => loader.load(a.it.src, t => { pix(t); a.mat.map = t; a.mat.color.set(0xffffff); a.mat.needsUpdate = true; a.setSize(t.image.width / t.image.height); }, undefined, () => {}));
   }
 
   // ---------- player
@@ -193,7 +180,7 @@ const initMuseum = () => {
   const films = data.films || [], cinScreen = cin.querySelector('.m-cin-screen'), cinTitle = cin.querySelector('.m-cin-title'), cinList = cin.querySelector('.m-cin-list');
   let film = 0, sitTimer = null;
   const filmSrc = f => f.k === 'list' ? `https://www.youtube-nocookie.com/embed/videoseries?list=${f.id}&autoplay=1&rel=0`
-    : f.k === 'vimeo' ? `https://player.vimeo.com/video/${f.id}?autoplay=1&title=0&byline=0&portrait=0&color=ff2e63`
+    : f.k === 'vimeo' ? `https://player.vimeo.com/video/${f.id}?autoplay=1&title=0&byline=0&portrait=0&color=f2b880`
     : `https://www.youtube-nocookie.com/embed/${f.id}?autoplay=1&rel=0`;
   const filmThumb = f => f.k === 'vimeo' ? `https://vumbnail.com/${f.id}.jpg` : f.k === 'list' ? '' : `https://i.ytimg.com/vi/${f.id}/mqdefault.jpg`;
   cinList.innerHTML = films.map((f, i) => `<button type="button" class="m-film" data-i="${i}" aria-pressed="false">${filmThumb(f) ? `<img src="${filmThumb(f)}" alt="" loading="lazy">` : '<span class="m-film-all">ALL</span>'}<span>${esc(f.title)}</span></button>`).join('');
@@ -286,8 +273,8 @@ const initMuseum = () => {
 
   // ---------- loop
   function size() {
-    const w = wrap.clientWidth, h = wrap.clientHeight, px = Math.max(2, Math.round(Math.min(w, h * 1.6) / 300));
-    renderer.setSize(Math.ceil(w / px), Math.ceil(h / px), false);
+    const w = wrap.clientWidth, h = wrap.clientHeight;
+    renderer.setSize(w, h, false);
     camera.aspect = w / h; baseFov = w < h ? 82 : FOV;
     if (seated && glide) glide.fov = screenFov(); else if (seated) me.fov = screenFov(); else me.fov = baseFov;
   }
@@ -326,6 +313,6 @@ const initMuseum = () => {
 };
 (() => {
   const go = () => { try { initMuseum(); } catch (e) { console.error(e); } };
-  const fonts = document.fonts && document.fonts.load ? Promise.all([document.fonts.load('700 16px Silkscreen'), document.fonts.load('400 8px Silkscreen')]) : Promise.resolve();
+  const fonts = document.fonts && document.fonts.load ? Promise.all([document.fonts.load('900 40px "Big Shoulders Display"'), document.fonts.load('400 40px Newsreader'), document.fonts.load('italic 400 40px Newsreader')]) : Promise.resolve();
   Promise.race([fonts, new Promise(r => setTimeout(r, 2200))]).then(go, go);
 })();
